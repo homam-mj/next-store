@@ -1,0 +1,820 @@
+{"location":"components/navbar/Navbar.tsx:9","message":"Navbar component rendering started","data":{},"timestamp":1767365181073,"sessionId":"debug-session","runId":"run1","hypothesisId":"D"}
+{"location":"utils/db.ts:4","message":"db.ts module loading started","data":{"hasDbUrl":true},"timestamp":1767365180766,"sessionId":"debug-session","runId":"run1","hypothesisId":"A"}
+{"location":"utils/db.ts:8","message":"DATABASE_URL validation check","data":{"dbUrlPresent":true,"dbUrlStartsWithPostgres":true},"timestamp":1767365180773,"sessionId":"debug-session","runId":"run1","hypothesisId":"A"}
+{"location":"utils/db.ts:20","message":"DATABASE_URL validation passed, creating PrismaClient","data":{},"timestamp":1767365180773,"sessionId":"debug-session","runId":"run1","hypothesisId":"B"}
+{"location":"utils/db.ts:24","message":"db.ts module loaded successfully","data":{"prismaCreated":true},"timestamp":1767365180781,"sessionId":"debug-session","runId":"run1","hypothesisId":"B"}
+{"location":"utils/supabase.ts:3","message":"supabase.ts module loading started","data":{"hasSupabaseUrl":true,"hasSupabaseKey":true},"timestamp":1767365180917,"sessionId":"debug-session","runId":"run1","hypothesisId":"A"}
+{"location":"utils/supabase.ts:10","message":"Supabase env vars validation check","data":{"supabaseUrlValid":true,"supabaseKeyPresent":true},"timestamp":1767365180918,"sessionId":"debug-session","runId":"run1","hypothesisId":"A"}
+{"location":"utils/supabase.ts:23","message":"Supabase env vars validation passed, creating client","data":{},"timestamp":1767365180919,"sessionId":"debug-session","runId":"run1","hypothesisId":"B"}
+{"location":"utils/supabase.ts:26","message":"supabase.ts module loaded successfully","data":{"supabaseClientCreated":true},"timestamp":1767365180931,"sessionId":"debug-session","runId":"run1","hypothesisId":"B"}
+{"location":"app/layout.tsx:27","message":"RootLayout rendering started","data":{"hasClerkPublishable":true,"hasClerkSecret":true},"timestamp":1767365181057,"sessionId":"debug-session","runId":"run1","hypothesisId":"E"}
+{"location":"app/providers.tsx:5","message":"Providers client component rendering","data":{},"timestamp":1767365185453,"sessionId":"debug-session","runId":"run1","hypothesisId":"D"}
+{"location":"app/providers.tsx:5","message":"Providers client component rendering","data":{},"timestamp":1767365185455,"sessionId":"debug-session","runId":"run1","hypothesisId":"D"}
+{"location":"components/navbar/Navbar.tsx:9","message":"Navbar component rendering started","data":{},"timestamp":1767365203517,"sessionId":"debug-session","runId":"run1","hypothesisId":"D"}
+{"location":"app/layout.tsx:27","message":"RootLayout rendering started","data":{"hasClerkPublishable":true,"hasClerkSecret":true},"timestamp":1767365203511,"sessionId":"debug-session","runId":"run1","hypothesisId":"E"}
+{"location":"app/providers.tsx:5","message":"Providers client component rendering","data":{},"timestamp":1767365206400,"sessionId":"debug-session","runId":"run1","hypothesisId":"D"}
+{"location":"app/providers.tsx:5","message":"Providers client component rendering","data":{},"timestamp":1767365206403,"sessionId":"debug-session","runId":"run1","hypothesisId":"D"}
+{"location":"utils/db.ts:4","message":"db.ts module loading started","data":{"hasDbUrl":true},"timestamp":1767365214189,"sessionId":"debug-session","runId":"run1","hypothesisId":"A"}
+{"location":"utils/db.ts:8","message":"DATABASE_URL validation check","data":{"dbUrlPresent":true,"dbUrlStartsWithPostgres":true},"timestamp":1767365214193,"sessionId":"debug-session","runId":"run1","hypothesisId":"A"}
+{"location":"utils/db.ts:20","message":"DATABASE_URL validation passed, creating PrismaClient","data":{},"timestamp":1767365214193,"sessionId":"debug-session","runId":"run1","hypothesisId":"B"}
+{"location":"utils/db.ts:24","message":"db.ts module loaded successfully","data":{"prismaCreated":true},"timestamp":1767365214194,"sessionId":"debug-session","runId":"run1","hypothesisId":"B"}
+{"location":"utils/supabase.ts:3","message":"supabase.ts module loading started","data":{"hasSupabaseUrl":true,"hasSupabaseKey":true},"timestamp":1767365214288,"sessionId":"debug-session","runId":"run1","hypothesisId":"A"}
+{"location":"utils/supabase.ts:10","message":"Supabase env vars validation check","data":{"supabaseUrlValid":true,"supabaseKeyPresent":true},"timestamp":1767365214290,"sessionId":"debug-session","runId":"run1","hypothesisId":"A"}
+{"location":"utils/supabase.ts:23","message":"Supabase env vars validation passed, creating client","data":{},"timestamp":1767365214290,"sessionId":"debug-session","runId":"run1","hypothesisId":"B"}
+{"location":"utils/supabase.ts:26","message":"supabase.ts module loaded successfully","data":{"supabaseClientCreated":true},"timestamp":1767365214300,"sessionId":"debug-session","runId":"run1","hypothesisId":"B"}
+{"location":"utils/db.ts:4","message":"db.ts module loading started","data":{"hasDbUrl":true},"timestamp":1767365222940,"sessionId":"debug-session","runId":"run1","hypothesisId":"A"}
+{"location":"utils/db.ts:8","message":"DATABASE_URL validation check","data":{"dbUrlPresent":true,"dbUrlStartsWithPostgres":true},"timestamp":1767365222954,"sessionId":"debug-session","runId":"run1","hypothesisId":"A"}
+{"location":"utils/db.ts:20","message":"DATABASE_URL validation passed, creating PrismaClient","data":{},"timestamp":1767365222955,"sessionId":"debug-session","runId":"run1","hypothesisId":"B"}
+{"location":"utils/db.ts:24","message":"db.ts module loaded successfully","data":{"prismaCreated":true},"timestamp":1767365222961,"sessionId":"debug-session","runId":"run1","hypothesisId":"B"}
+{"location":"utils/supabase.ts:3","message":"supabase.ts module loading started","data":{"hasSupabaseUrl":true,"hasSupabaseKey":true},"timestamp":1767365223061,"sessionId":"debug-session","runId":"run1","hypothesisId":"A"}
+{"location":"utils/supabase.ts:10","message":"Supabase env vars validation check","data":{"supabaseUrlValid":true,"supabaseKeyPresent":true},"timestamp":1767365223063,"sessionId":"debug-session","runId":"run1","hypothesisId":"A"}
+{"location":"utils/supabase.ts:23","message":"Supabase env vars validation passed, creating client","data":{},"timestamp":1767365223063,"sessionId":"debug-session","runId":"run1","hypothesisId":"B"}
+{"location":"utils/supabase.ts:26","message":"supabase.ts module loaded successfully","data":{"supabaseClientCreated":true},"timestamp":1767365223071,"sessionId":"debug-session","runId":"run1","hypothesisId":"B"}
+{"location":"utils/db.ts:4","message":"db.ts module loading started","data":{"hasDbUrl":true},"timestamp":1767365223318,"sessionId":"debug-session","runId":"run1","hypothesisId":"A"}
+{"location":"utils/db.ts:8","message":"DATABASE_URL validation check","data":{"dbUrlPresent":true,"dbUrlStartsWithPostgres":true},"timestamp":1767365223321,"sessionId":"debug-session","runId":"run1","hypothesisId":"A"}
+{"location":"utils/db.ts:20","message":"DATABASE_URL validation passed, creating PrismaClient","data":{},"timestamp":1767365223321,"sessionId":"debug-session","runId":"run1","hypothesisId":"B"}
+{"location":"utils/db.ts:24","message":"db.ts module loaded successfully","data":{"prismaCreated":true},"timestamp":1767365223321,"sessionId":"debug-session","runId":"run1","hypothesisId":"B"}
+{"location":"utils/supabase.ts:3","message":"supabase.ts module loading started","data":{"hasSupabaseUrl":true,"hasSupabaseKey":true},"timestamp":1767365223345,"sessionId":"debug-session","runId":"run1","hypothesisId":"A"}
+{"location":"utils/supabase.ts:10","message":"Supabase env vars validation check","data":{"supabaseUrlValid":true,"supabaseKeyPresent":true},"timestamp":1767365223346,"sessionId":"debug-session","runId":"run1","hypothesisId":"A"}
+{"location":"utils/supabase.ts:23","message":"Supabase env vars validation passed, creating client","data":{},"timestamp":1767365223346,"sessionId":"debug-session","runId":"run1","hypothesisId":"B"}
+{"location":"utils/supabase.ts:26","message":"supabase.ts module loaded successfully","data":{"supabaseClientCreated":true},"timestamp":1767365223349,"sessionId":"debug-session","runId":"run1","hypothesisId":"B"}
+{"location":"utils/db.ts:4","message":"db.ts module loading started","data":{"hasDbUrl":true},"timestamp":1767365224610,"sessionId":"debug-session","runId":"run1","hypothesisId":"A"}
+{"location":"utils/db.ts:8","message":"DATABASE_URL validation check","data":{"dbUrlPresent":true,"dbUrlStartsWithPostgres":true},"timestamp":1767365224625,"sessionId":"debug-session","runId":"run1","hypothesisId":"A"}
+{"location":"utils/db.ts:20","message":"DATABASE_URL validation passed, creating PrismaClient","data":{},"timestamp":1767365224626,"sessionId":"debug-session","runId":"run1","hypothesisId":"B"}
+{"location":"utils/db.ts:24","message":"db.ts module loaded successfully","data":{"prismaCreated":true},"timestamp":1767365224637,"sessionId":"debug-session","runId":"run1","hypothesisId":"B"}
+{"location":"utils/supabase.ts:3","message":"supabase.ts module loading started","data":{"hasSupabaseUrl":true,"hasSupabaseKey":true},"timestamp":1767365224770,"sessionId":"debug-session","runId":"run1","hypothesisId":"A"}
+{"location":"utils/supabase.ts:10","message":"Supabase env vars validation check","data":{"supabaseUrlValid":true,"supabaseKeyPresent":true},"timestamp":1767365224772,"sessionId":"debug-session","runId":"run1","hypothesisId":"A"}
+{"location":"utils/supabase.ts:23","message":"Supabase env vars validation passed, creating client","data":{},"timestamp":1767365224773,"sessionId":"debug-session","runId":"run1","hypothesisId":"B"}
+{"location":"utils/supabase.ts:26","message":"supabase.ts module loaded successfully","data":{"supabaseClientCreated":true},"timestamp":1767365224782,"sessionId":"debug-session","runId":"run1","hypothesisId":"B"}
+{"location":"utils/db.ts:4","message":"db.ts module loading started","data":{"hasDbUrl":true},"timestamp":1767365228778,"sessionId":"debug-session","runId":"run1","hypothesisId":"A"}
+{"location":"utils/db.ts:8","message":"DATABASE_URL validation check","data":{"dbUrlPresent":true,"dbUrlStartsWithPostgres":true},"timestamp":1767365228790,"sessionId":"debug-session","runId":"run1","hypothesisId":"A"}
+{"location":"utils/db.ts:20","message":"DATABASE_URL validation passed, creating PrismaClient","data":{},"timestamp":1767365228792,"sessionId":"debug-session","runId":"run1","hypothesisId":"B"}
+{"location":"utils/db.ts:24","message":"db.ts module loaded successfully","data":{"prismaCreated":true},"timestamp":1767365228800,"sessionId":"debug-session","runId":"run1","hypothesisId":"B"}
+{"location":"utils/supabase.ts:3","message":"supabase.ts module loading started","data":{"hasSupabaseUrl":true,"hasSupabaseKey":true},"timestamp":1767365228898,"sessionId":"debug-session","runId":"run1","hypothesisId":"A"}
+{"location":"utils/supabase.ts:10","message":"Supabase env vars validation check","data":{"supabaseUrlValid":true,"supabaseKeyPresent":true},"timestamp":1767365228899,"sessionId":"debug-session","runId":"run1","hypothesisId":"A"}
+{"location":"utils/supabase.ts:23","message":"Supabase env vars validation passed, creating client","data":{},"timestamp":1767365228899,"sessionId":"debug-session","runId":"run1","hypothesisId":"B"}
+{"location":"utils/supabase.ts:26","message":"supabase.ts module loaded successfully","data":{"supabaseClientCreated":true},"timestamp":1767365228906,"sessionId":"debug-session","runId":"run1","hypothesisId":"B"}
+{"location":"app/layout.tsx:27","message":"RootLayout rendering started","data":{"hasClerkPublishable":true,"hasClerkSecret":true},"timestamp":1767365232037,"sessionId":"debug-session","runId":"run1","hypothesisId":"E"}
+{"location":"components/navbar/Navbar.tsx:9","message":"Navbar component rendering started","data":{},"timestamp":1767365232045,"sessionId":"debug-session","runId":"run1","hypothesisId":"D"}
+{"location":"utils/db.ts:4","message":"db.ts module loading started","data":{"hasDbUrl":true},"timestamp":1767365231986,"sessionId":"debug-session","runId":"run1","hypothesisId":"A"}
+{"location":"utils/db.ts:8","message":"DATABASE_URL validation check","data":{"dbUrlPresent":true,"dbUrlStartsWithPostgres":true},"timestamp":1767365231990,"sessionId":"debug-session","runId":"run1","hypothesisId":"A"}
+{"location":"utils/db.ts:20","message":"DATABASE_URL validation passed, creating PrismaClient","data":{},"timestamp":1767365231990,"sessionId":"debug-session","runId":"run1","hypothesisId":"B"}
+{"location":"utils/db.ts:24","message":"db.ts module loaded successfully","data":{"prismaCreated":true},"timestamp":1767365231990,"sessionId":"debug-session","runId":"run1","hypothesisId":"B"}
+{"location":"utils/supabase.ts:3","message":"supabase.ts module loading started","data":{"hasSupabaseUrl":true,"hasSupabaseKey":true},"timestamp":1767365232010,"sessionId":"debug-session","runId":"run1","hypothesisId":"A"}
+{"location":"utils/supabase.ts:10","message":"Supabase env vars validation check","data":{"supabaseUrlValid":true,"supabaseKeyPresent":true},"timestamp":1767365232011,"sessionId":"debug-session","runId":"run1","hypothesisId":"A"}
+{"location":"utils/supabase.ts:23","message":"Supabase env vars validation passed, creating client","data":{},"timestamp":1767365232011,"sessionId":"debug-session","runId":"run1","hypothesisId":"B"}
+{"location":"utils/supabase.ts:26","message":"supabase.ts module loaded successfully","data":{"supabaseClientCreated":true},"timestamp":1767365232012,"sessionId":"debug-session","runId":"run1","hypothesisId":"B"}
+{"location":"app/providers.tsx:5","message":"Providers client component rendering","data":{},"timestamp":1767365232138,"sessionId":"debug-session","runId":"run1","hypothesisId":"D"}
+{"location":"app/providers.tsx:5","message":"Providers client component rendering","data":{},"timestamp":1767365232162,"sessionId":"debug-session","runId":"run1","hypothesisId":"D"}
+{"location":"app/providers.tsx:5","message":"Providers client component rendering","data":{},"timestamp":1767365232163,"sessionId":"debug-session","runId":"run1","hypothesisId":"D"}
+{"location":"app/providers.tsx:5","message":"Providers client component rendering","data":{},"timestamp":1767365232138,"sessionId":"debug-session","runId":"run1","hypothesisId":"D"}
+{"location":"app/providers.tsx:5","message":"Providers client component rendering","data":{},"timestamp":1767365232360,"sessionId":"debug-session","runId":"run1","hypothesisId":"D"}
+{"location":"app/providers.tsx:5","message":"Providers client component rendering","data":{},"timestamp":1767365232361,"sessionId":"debug-session","runId":"run1","hypothesisId":"D"}
+{"location":"app/providers.tsx:5","message":"Providers client component rendering","data":{},"timestamp":1767365233947,"sessionId":"debug-session","runId":"run1","hypothesisId":"D"}
+{"location":"app/providers.tsx:5","message":"Providers client component rendering","data":{},"timestamp":1767365233948,"sessionId":"debug-session","runId":"run1","hypothesisId":"D"}
+{"location":"app/providers.tsx:5","message":"Providers client component rendering","data":{},"timestamp":1767365234487,"sessionId":"debug-session","runId":"run1","hypothesisId":"D"}
+{"location":"app/providers.tsx:5","message":"Providers client component rendering","data":{},"timestamp":1767365234487,"sessionId":"debug-session","runId":"run1","hypothesisId":"D"}
+{"location":"components/navbar/Navbar.tsx:9","message":"Navbar component rendering started","data":{},"timestamp":1767365250375,"sessionId":"debug-session","runId":"run1","hypothesisId":"D"}
+{"location":"utils/db.ts:4","message":"db.ts module loading started","data":{"hasDbUrl":true},"timestamp":1767365250315,"sessionId":"debug-session","runId":"run1","hypothesisId":"A"}
+{"location":"utils/db.ts:8","message":"DATABASE_URL validation check","data":{"dbUrlPresent":true,"dbUrlStartsWithPostgres":true},"timestamp":1767365250319,"sessionId":"debug-session","runId":"run1","hypothesisId":"A"}
+{"location":"utils/db.ts:20","message":"DATABASE_URL validation passed, creating PrismaClient","data":{},"timestamp":1767365250319,"sessionId":"debug-session","runId":"run1","hypothesisId":"B"}
+{"location":"utils/db.ts:24","message":"db.ts module loaded successfully","data":{"prismaCreated":true},"timestamp":1767365250320,"sessionId":"debug-session","runId":"run1","hypothesisId":"B"}
+{"location":"utils/supabase.ts:3","message":"supabase.ts module loading started","data":{"hasSupabaseUrl":true,"hasSupabaseKey":true},"timestamp":1767365250349,"sessionId":"debug-session","runId":"run1","hypothesisId":"A"}
+{"location":"utils/supabase.ts:10","message":"Supabase env vars validation check","data":{"supabaseUrlValid":true,"supabaseKeyPresent":true},"timestamp":1767365250351,"sessionId":"debug-session","runId":"run1","hypothesisId":"A"}
+{"location":"utils/supabase.ts:23","message":"Supabase env vars validation passed, creating client","data":{},"timestamp":1767365250351,"sessionId":"debug-session","runId":"run1","hypothesisId":"B"}
+{"location":"utils/supabase.ts:26","message":"supabase.ts module loaded successfully","data":{"supabaseClientCreated":true},"timestamp":1767365250354,"sessionId":"debug-session","runId":"run1","hypothesisId":"B"}
+{"location":"app/layout.tsx:27","message":"RootLayout rendering started","data":{"hasClerkPublishable":true,"hasClerkSecret":true},"timestamp":1767365250368,"sessionId":"debug-session","runId":"run1","hypothesisId":"E"}
+{"location":"app/providers.tsx:5","message":"Providers client component rendering","data":{},"timestamp":1767365250545,"sessionId":"debug-session","runId":"run1","hypothesisId":"D"}
+{"location":"app/providers.tsx:5","message":"Providers client component rendering","data":{},"timestamp":1767365250546,"sessionId":"debug-session","runId":"run1","hypothesisId":"D"}
+{"location":"app/providers.tsx:5","message":"Providers client component rendering","data":{},"timestamp":1767365250701,"sessionId":"debug-session","runId":"run1","hypothesisId":"D"}
+{"location":"app/providers.tsx:5","message":"Providers client component rendering","data":{},"timestamp":1767365250702,"sessionId":"debug-session","runId":"run1","hypothesisId":"D"}
+{"location":"app/checkout/page.tsx:18","message":"CheckoutPage rendering","data":{"hasOrderId":true,"hasCartId":true,"hasStripeKey":true},"timestamp":1767365250744,"sessionId":"debug-session","runId":"run1","hypothesisId":"C"}
+{"location":"app/checkout/page.tsx:18","message":"CheckoutPage rendering","data":{"hasOrderId":true,"hasCartId":true,"hasStripeKey":true},"timestamp":1767365250744,"sessionId":"debug-session","runId":"run1","hypothesisId":"C"}
+{"location":"app/checkout/page.tsx:75","message":"CheckoutPage useEffect - checking Stripe promise","data":{"hasStripePromise":true,"stripeKey":"pk_test_51Sl7fDI7SwE..."},"timestamp":1767365250768,"sessionId":"debug-session","runId":"run1","hypothesisId":"E"}
+{"location":"app/checkout/page.tsx:75","message":"CheckoutPage useEffect - checking Stripe promise","data":{"hasStripePromise":true,"stripeKey":"pk_test_51Sl7fDI7SwE..."},"timestamp":1767365250770,"sessionId":"debug-session","runId":"run1","hypothesisId":"E"}
+{"location":"app/checkout/page.tsx:79","message":"Stripe promise resolved","data":{"hasStripe":true},"timestamp":1767365250928,"sessionId":"debug-session","runId":"run1","hypothesisId":"E"}
+{"location":"app/checkout/page.tsx:79","message":"Stripe promise resolved","data":{"hasStripe":true},"timestamp":1767365250929,"sessionId":"debug-session","runId":"run1","hypothesisId":"E"}
+{"location":"app/checkout/page.tsx:46","message":"fetchClientSecret called","data":{"orderId":"65bc48d9-102f-4a21-b0d2-9edb61cd723d","cartId":"2eaab071-496e-4d6f-a4b4-5ff3ca6a7291"},"timestamp":1767365250954,"sessionId":"debug-session","runId":"run1","hypothesisId":"C"}
+{"location":"utils/db.ts:4","message":"db.ts module loading started","data":{"hasDbUrl":true},"timestamp":1767365253622,"sessionId":"debug-session","runId":"run1","hypothesisId":"A"}
+{"location":"utils/db.ts:8","message":"DATABASE_URL validation check","data":{"dbUrlPresent":true,"dbUrlStartsWithPostgres":true},"timestamp":1767365253622,"sessionId":"debug-session","runId":"run1","hypothesisId":"A"}
+{"location":"utils/db.ts:20","message":"DATABASE_URL validation passed, creating PrismaClient","data":{},"timestamp":1767365253623,"sessionId":"debug-session","runId":"run1","hypothesisId":"B"}
+{"location":"utils/db.ts:24","message":"db.ts module loaded successfully","data":{"prismaCreated":true},"timestamp":1767365253623,"sessionId":"debug-session","runId":"run1","hypothesisId":"B"}
+{"location":"app/api/payment/route.ts:9","message":"Payment API POST called","data":{"hasStripeKey":true},"timestamp":1767365253646,"sessionId":"debug-session","runId":"run1","hypothesisId":"A"}
+{"location":"app/api/payment/route.ts:12","message":"Payment API request parsed","data":{"orderId":"65bc48d9-102f-4a21-b0d2-9edb61cd723d","cartId":"2eaab071-496e-4d6f-a4b4-5ff3ca6a7291","origin":"http://localhost:3000"},"timestamp":1767365253653,"sessionId":"debug-session","runId":"run1","hypothesisId":"C"}
+{"location":"app/api/payment/route.ts:35","message":"Order and cart lookup completed","data":{"orderFound":true,"cartFound":true,"cartItemsCount":1},"timestamp":1767365254472,"sessionId":"debug-session","runId":"run1","hypothesisId":"B"}
+{"location":"app/api/payment/route.ts:56","message":"Line items created","data":{"lineItemsCount":1,"isEmpty":false},"timestamp":1767365254473,"sessionId":"debug-session","runId":"run1","hypothesisId":"B"}
+{"location":"app/api/payment/route.ts:66","message":"Stripe session created successfully","data":{"hasClientSecret":true},"timestamp":1767365255143,"sessionId":"debug-session","runId":"run1","hypothesisId":"E"}
+{"location":"app/checkout/page.tsx:53","message":"Payment API response received","data":{"hasClientSecret":true,"status":200},"timestamp":1767365255158,"sessionId":"debug-session","runId":"run1","hypothesisId":"E"}
+{"location":"utils/db.ts:4","message":"db.ts module loading started","data":{"hasDbUrl":true},"timestamp":1767365260974,"sessionId":"debug-session","runId":"run1","hypothesisId":"A"}
+{"location":"utils/db.ts:8","message":"DATABASE_URL validation check","data":{"dbUrlPresent":true,"dbUrlStartsWithPostgres":true},"timestamp":1767365260979,"sessionId":"debug-session","runId":"run1","hypothesisId":"A"}
+{"location":"utils/db.ts:20","message":"DATABASE_URL validation passed, creating PrismaClient","data":{},"timestamp":1767365260980,"sessionId":"debug-session","runId":"run1","hypothesisId":"B"}
+{"location":"utils/db.ts:24","message":"db.ts module loaded successfully","data":{"prismaCreated":true},"timestamp":1767365260980,"sessionId":"debug-session","runId":"run1","hypothesisId":"B"}
+{"location":"utils/supabase.ts:3","message":"supabase.ts module loading started","data":{"hasSupabaseUrl":true,"hasSupabaseKey":true},"timestamp":1767365261055,"sessionId":"debug-session","runId":"run1","hypothesisId":"A"}
+{"location":"utils/supabase.ts:10","message":"Supabase env vars validation check","data":{"supabaseUrlValid":true,"supabaseKeyPresent":true},"timestamp":1767365261076,"sessionId":"debug-session","runId":"run1","hypothesisId":"A"}
+{"location":"utils/supabase.ts:23","message":"Supabase env vars validation passed, creating client","data":{},"timestamp":1767365261077,"sessionId":"debug-session","runId":"run1","hypothesisId":"B"}
+{"location":"utils/supabase.ts:26","message":"supabase.ts module loaded successfully","data":{"supabaseClientCreated":true},"timestamp":1767365261079,"sessionId":"debug-session","runId":"run1","hypothesisId":"B"}
+{"location":"utils/db.ts:4","message":"db.ts module loading started","data":{"hasDbUrl":true},"timestamp":1767365266574,"sessionId":"debug-session","runId":"run1","hypothesisId":"A"}
+{"location":"utils/db.ts:8","message":"DATABASE_URL validation check","data":{"dbUrlPresent":true,"dbUrlStartsWithPostgres":true},"timestamp":1767365266575,"sessionId":"debug-session","runId":"run1","hypothesisId":"A"}
+{"location":"utils/db.ts:20","message":"DATABASE_URL validation passed, creating PrismaClient","data":{},"timestamp":1767365266575,"sessionId":"debug-session","runId":"run1","hypothesisId":"B"}
+{"location":"utils/db.ts:24","message":"db.ts module loaded successfully","data":{"prismaCreated":true},"timestamp":1767365266576,"sessionId":"debug-session","runId":"run1","hypothesisId":"B"}
+{"location":"utils/supabase.ts:3","message":"supabase.ts module loading started","data":{"hasSupabaseUrl":true,"hasSupabaseKey":true},"timestamp":1767365266592,"sessionId":"debug-session","runId":"run1","hypothesisId":"A"}
+{"location":"utils/supabase.ts:10","message":"Supabase env vars validation check","data":{"supabaseUrlValid":true,"supabaseKeyPresent":true},"timestamp":1767365266592,"sessionId":"debug-session","runId":"run1","hypothesisId":"A"}
+{"location":"utils/supabase.ts:23","message":"Supabase env vars validation passed, creating client","data":{},"timestamp":1767365266592,"sessionId":"debug-session","runId":"run1","hypothesisId":"B"}
+{"location":"utils/supabase.ts:26","message":"supabase.ts module loaded successfully","data":{"supabaseClientCreated":true},"timestamp":1767365266594,"sessionId":"debug-session","runId":"run1","hypothesisId":"B"}
+{"location":"app/layout.tsx:27","message":"RootLayout rendering started","data":{"hasClerkPublishable":true,"hasClerkSecret":true},"timestamp":1767365274602,"sessionId":"debug-session","runId":"run1","hypothesisId":"E"}
+{"location":"components/navbar/Navbar.tsx:9","message":"Navbar component rendering started","data":{},"timestamp":1767365274606,"sessionId":"debug-session","runId":"run1","hypothesisId":"D"}
+{"location":"app/providers.tsx:5","message":"Providers client component rendering","data":{},"timestamp":1767365274653,"sessionId":"debug-session","runId":"run1","hypothesisId":"D"}
+{"location":"app/providers.tsx:5","message":"Providers client component rendering","data":{},"timestamp":1767365274653,"sessionId":"debug-session","runId":"run1","hypothesisId":"D"}
+{"location":"app/providers.tsx:5","message":"Providers client component rendering","data":{},"timestamp":1767365275208,"sessionId":"debug-session","runId":"run1","hypothesisId":"D"}
+{"location":"app/providers.tsx:5","message":"Providers client component rendering","data":{},"timestamp":1767365275208,"sessionId":"debug-session","runId":"run1","hypothesisId":"D"}
+{"location":"app/providers.tsx:5","message":"Providers client component rendering","data":{},"timestamp":1767365275495,"sessionId":"debug-session","runId":"run1","hypothesisId":"D"}
+{"location":"app/providers.tsx:5","message":"Providers client component rendering","data":{},"timestamp":1767365275495,"sessionId":"debug-session","runId":"run1","hypothesisId":"D"}
+{"location":"app/providers.tsx:5","message":"Providers client component rendering","data":{},"timestamp":1767365275787,"sessionId":"debug-session","runId":"run1","hypothesisId":"D"}
+{"location":"app/providers.tsx:5","message":"Providers client component rendering","data":{},"timestamp":1767365275788,"sessionId":"debug-session","runId":"run1","hypothesisId":"D"}
+{"location":"app/providers.tsx:5","message":"Providers client component rendering","data":{},"timestamp":1767365276080,"sessionId":"debug-session","runId":"run1","hypothesisId":"D"}
+{"location":"app/providers.tsx:5","message":"Providers client component rendering","data":{},"timestamp":1767365276080,"sessionId":"debug-session","runId":"run1","hypothesisId":"D"}
+{"location":"app/providers.tsx:5","message":"Providers client component rendering","data":{},"timestamp":1767365276370,"sessionId":"debug-session","runId":"run1","hypothesisId":"D"}
+{"location":"app/providers.tsx:5","message":"Providers client component rendering","data":{},"timestamp":1767365276371,"sessionId":"debug-session","runId":"run1","hypothesisId":"D"}
+{"location":"utils/db.ts:4","message":"db.ts module loading started","data":{"hasDbUrl":true},"timestamp":1767366011541,"sessionId":"debug-session","runId":"run1","hypothesisId":"A"}
+{"location":"utils/db.ts:8","message":"DATABASE_URL validation check","data":{"dbUrlPresent":true,"dbUrlStartsWithPostgres":true},"timestamp":1767366011553,"sessionId":"debug-session","runId":"run1","hypothesisId":"A"}
+{"location":"utils/db.ts:20","message":"DATABASE_URL validation passed, creating PrismaClient","data":{},"timestamp":1767366011555,"sessionId":"debug-session","runId":"run1","hypothesisId":"B"}
+{"location":"utils/db.ts:24","message":"db.ts module loaded successfully","data":{"prismaCreated":true},"timestamp":1767366011561,"sessionId":"debug-session","runId":"run1","hypothesisId":"B"}
+{"location":"utils/supabase.ts:3","message":"supabase.ts module loading started","data":{"hasSupabaseUrl":true,"hasSupabaseKey":true},"timestamp":1767366011658,"sessionId":"debug-session","runId":"run1","hypothesisId":"A"}
+{"location":"utils/supabase.ts:10","message":"Supabase env vars validation check","data":{"supabaseUrlValid":true,"supabaseKeyPresent":true},"timestamp":1767366011659,"sessionId":"debug-session","runId":"run1","hypothesisId":"A"}
+{"location":"utils/supabase.ts:23","message":"Supabase env vars validation passed, creating client","data":{},"timestamp":1767366011659,"sessionId":"debug-session","runId":"run1","hypothesisId":"B"}
+{"location":"utils/supabase.ts:26","message":"supabase.ts module loaded successfully","data":{"supabaseClientCreated":true},"timestamp":1767366011666,"sessionId":"debug-session","runId":"run1","hypothesisId":"B"}
+{"location":"utils/db.ts:4","message":"db.ts module loading started","data":{"hasDbUrl":true},"timestamp":1767366016553,"sessionId":"debug-session","runId":"run1","hypothesisId":"A"}
+{"location":"utils/db.ts:8","message":"DATABASE_URL validation check","data":{"dbUrlPresent":true,"dbUrlStartsWithPostgres":true},"timestamp":1767366016565,"sessionId":"debug-session","runId":"run1","hypothesisId":"A"}
+{"location":"utils/db.ts:20","message":"DATABASE_URL validation passed, creating PrismaClient","data":{},"timestamp":1767366016566,"sessionId":"debug-session","runId":"run1","hypothesisId":"B"}
+{"location":"utils/db.ts:24","message":"db.ts module loaded successfully","data":{"prismaCreated":true},"timestamp":1767366016571,"sessionId":"debug-session","runId":"run1","hypothesisId":"B"}
+{"location":"utils/supabase.ts:3","message":"supabase.ts module loading started","data":{"hasSupabaseUrl":true,"hasSupabaseKey":true},"timestamp":1767366016658,"sessionId":"debug-session","runId":"run1","hypothesisId":"A"}
+{"location":"utils/supabase.ts:10","message":"Supabase env vars validation check","data":{"supabaseUrlValid":true,"supabaseKeyPresent":true},"timestamp":1767366016660,"sessionId":"debug-session","runId":"run1","hypothesisId":"A"}
+{"location":"utils/supabase.ts:23","message":"Supabase env vars validation passed, creating client","data":{},"timestamp":1767366016661,"sessionId":"debug-session","runId":"run1","hypothesisId":"B"}
+{"location":"utils/supabase.ts:26","message":"supabase.ts module loaded successfully","data":{"supabaseClientCreated":true},"timestamp":1767366016667,"sessionId":"debug-session","runId":"run1","hypothesisId":"B"}
+{"location":"app/layout.tsx:27","message":"RootLayout rendering started","data":{"hasClerkPublishable":true,"hasClerkSecret":true},"timestamp":1767366018711,"sessionId":"debug-session","runId":"run1","hypothesisId":"E"}
+{"location":"components/navbar/Navbar.tsx:9","message":"Navbar component rendering started","data":{},"timestamp":1767366018716,"sessionId":"debug-session","runId":"run1","hypothesisId":"D"}
+{"location":"app/providers.tsx:5","message":"Providers client component rendering","data":{},"timestamp":1767366018761,"sessionId":"debug-session","runId":"run1","hypothesisId":"D"}
+{"location":"app/providers.tsx:5","message":"Providers client component rendering","data":{},"timestamp":1767366018762,"sessionId":"debug-session","runId":"run1","hypothesisId":"D"}
+{"location":"app/providers.tsx:5","message":"Providers client component rendering","data":{},"timestamp":1767366019043,"sessionId":"debug-session","runId":"run1","hypothesisId":"D"}
+{"location":"app/providers.tsx:5","message":"Providers client component rendering","data":{},"timestamp":1767366019044,"sessionId":"debug-session","runId":"run1","hypothesisId":"D"}
+{"location":"app/providers.tsx:5","message":"Providers client component rendering","data":{},"timestamp":1767366020670,"sessionId":"debug-session","runId":"run1","hypothesisId":"D"}
+{"location":"app/providers.tsx:5","message":"Providers client component rendering","data":{},"timestamp":1767366020670,"sessionId":"debug-session","runId":"run1","hypothesisId":"D"}
+{"location":"components/navbar/Navbar.tsx:9","message":"Navbar component rendering started","data":{},"timestamp":1767366024614,"sessionId":"debug-session","runId":"run1","hypothesisId":"D"}
+{"location":"app/layout.tsx:27","message":"RootLayout rendering started","data":{"hasClerkPublishable":true,"hasClerkSecret":true},"timestamp":1767366024613,"sessionId":"debug-session","runId":"run1","hypothesisId":"E"}
+{"location":"app/providers.tsx:5","message":"Providers client component rendering","data":{},"timestamp":1767366024648,"sessionId":"debug-session","runId":"run1","hypothesisId":"D"}
+{"location":"app/providers.tsx:5","message":"Providers client component rendering","data":{},"timestamp":1767366024649,"sessionId":"debug-session","runId":"run1","hypothesisId":"D"}
+{"location":"app/providers.tsx:5","message":"Providers client component rendering","data":{},"timestamp":1767366024930,"sessionId":"debug-session","runId":"run1","hypothesisId":"D"}
+{"location":"app/providers.tsx:5","message":"Providers client component rendering","data":{},"timestamp":1767366024930,"sessionId":"debug-session","runId":"run1","hypothesisId":"D"}
+{"location":"app/checkout/page.tsx:18","message":"CheckoutPage rendering","data":{"hasOrderId":true,"hasCartId":true,"hasStripeKey":true},"timestamp":1767366024949,"sessionId":"debug-session","runId":"run1","hypothesisId":"C"}
+{"location":"app/checkout/page.tsx:18","message":"CheckoutPage rendering","data":{"hasOrderId":true,"hasCartId":true,"hasStripeKey":true},"timestamp":1767366024950,"sessionId":"debug-session","runId":"run1","hypothesisId":"C"}
+{"location":"app/checkout/page.tsx:75","message":"CheckoutPage useEffect - checking Stripe promise","data":{"hasStripePromise":true,"stripeKey":"pk_test_51Sl7fDI7SwE..."},"timestamp":1767366024968,"sessionId":"debug-session","runId":"run1","hypothesisId":"E"}
+{"location":"app/checkout/page.tsx:75","message":"CheckoutPage useEffect - checking Stripe promise","data":{"hasStripePromise":true,"stripeKey":"pk_test_51Sl7fDI7SwE..."},"timestamp":1767366024969,"sessionId":"debug-session","runId":"run1","hypothesisId":"E"}
+{"location":"app/checkout/page.tsx:79","message":"Stripe promise resolved","data":{"hasStripe":true},"timestamp":1767366024972,"sessionId":"debug-session","runId":"run1","hypothesisId":"E"}
+{"location":"app/checkout/page.tsx:79","message":"Stripe promise resolved","data":{"hasStripe":true},"timestamp":1767366024971,"sessionId":"debug-session","runId":"run1","hypothesisId":"E"}
+{"location":"app/checkout/page.tsx:46","message":"fetchClientSecret called","data":{"orderId":"15152630-0c26-440b-a67e-0b441ca74d3e","cartId":"2eaab071-496e-4d6f-a4b4-5ff3ca6a7291"},"timestamp":1767366024973,"sessionId":"debug-session","runId":"run1","hypothesisId":"C"}
+{"location":"app/api/payment/route.ts:9","message":"Payment API POST called","data":{"hasStripeKey":true},"timestamp":1767366025246,"sessionId":"debug-session","runId":"run1","hypothesisId":"A"}
+{"location":"app/api/payment/route.ts:12","message":"Payment API request parsed","data":{"orderId":"15152630-0c26-440b-a67e-0b441ca74d3e","cartId":"2eaab071-496e-4d6f-a4b4-5ff3ca6a7291","origin":"http://localhost:3000"},"timestamp":1767366025255,"sessionId":"debug-session","runId":"run1","hypothesisId":"C"}
+{"location":"app/api/payment/route.ts:35","message":"Order and cart lookup completed","data":{"orderFound":true,"cartFound":true,"cartItemsCount":2},"timestamp":1767366026103,"sessionId":"debug-session","runId":"run1","hypothesisId":"B"}
+{"location":"app/api/payment/route.ts:56","message":"Line items created","data":{"lineItemsCount":2,"isEmpty":false},"timestamp":1767366026104,"sessionId":"debug-session","runId":"run1","hypothesisId":"B"}
+{"location":"app/api/payment/route.ts:66","message":"Stripe session created successfully","data":{"hasClientSecret":true},"timestamp":1767366026850,"sessionId":"debug-session","runId":"run1","hypothesisId":"E"}
+{"location":"app/checkout/page.tsx:53","message":"Payment API response received","data":{"hasClientSecret":true,"status":200},"timestamp":1767366026867,"sessionId":"debug-session","runId":"run1","hypothesisId":"E"}
+{"location":"utils/db.ts:4","message":"db.ts module loading started","data":{"hasDbUrl":true},"timestamp":1767366063335,"sessionId":"debug-session","runId":"run1","hypothesisId":"A"}
+{"location":"utils/db.ts:8","message":"DATABASE_URL validation check","data":{"dbUrlPresent":true,"dbUrlStartsWithPostgres":true},"timestamp":1767366063336,"sessionId":"debug-session","runId":"run1","hypothesisId":"A"}
+{"location":"utils/db.ts:20","message":"DATABASE_URL validation passed, creating PrismaClient","data":{},"timestamp":1767366063336,"sessionId":"debug-session","runId":"run1","hypothesisId":"B"}
+{"location":"utils/db.ts:24","message":"db.ts module loaded successfully","data":{"prismaCreated":true},"timestamp":1767366063337,"sessionId":"debug-session","runId":"run1","hypothesisId":"B"}
+{"location":"app/api/confirm/route.ts:13","message":"Confirm API - session_id extracted","data":{"hasSessionId":true,"sessionId":"cs_test_b15XZwUgpHB1..."},"timestamp":1767366063348,"sessionId":"debug-session","runId":"run1","hypothesisId":"E"}
+{"location":"app/api/confirm/route.ts:8","message":"Confirm API GET called","data":{},"timestamp":1767366063347,"sessionId":"debug-session","runId":"run1","hypothesisId":"E"}
+{"location":"app/api/confirm/route.ts:19","message":"Stripe session retrieved","data":{"sessionStatus":"complete","hasOrderId":true,"hasCartId":true},"timestamp":1767366063914,"sessionId":"debug-session","runId":"run1","hypothesisId":"E"}
+{"location":"app/api/confirm/route.ts:33","message":"Payment complete - updating order and deleting cart","data":{"orderId":"15152630-0c26-440b-a67e-0b441ca74d3e","cartId":"2eaab071-496e-4d6f-a4b4-5ff3ca6a7291"},"timestamp":1767366063915,"sessionId":"debug-session","runId":"run1","hypothesisId":"E"}
+{"location":"app/layout.tsx:27","message":"RootLayout rendering started","data":{"hasClerkPublishable":true,"hasClerkSecret":true},"timestamp":1767366065953,"sessionId":"debug-session","runId":"run1","hypothesisId":"E"}
+{"location":"components/navbar/Navbar.tsx:9","message":"Navbar component rendering started","data":{},"timestamp":1767366065958,"sessionId":"debug-session","runId":"run1","hypothesisId":"D"}
+{"location":"utils/db.ts:4","message":"db.ts module loading started","data":{"hasDbUrl":true},"timestamp":1767366065801,"sessionId":"debug-session","runId":"run1","hypothesisId":"A"}
+{"location":"utils/db.ts:8","message":"DATABASE_URL validation check","data":{"dbUrlPresent":true,"dbUrlStartsWithPostgres":true},"timestamp":1767366065804,"sessionId":"debug-session","runId":"run1","hypothesisId":"A"}
+{"location":"utils/db.ts:20","message":"DATABASE_URL validation passed, creating PrismaClient","data":{},"timestamp":1767366065804,"sessionId":"debug-session","runId":"run1","hypothesisId":"B"}
+{"location":"utils/db.ts:24","message":"db.ts module loaded successfully","data":{"prismaCreated":true},"timestamp":1767366065804,"sessionId":"debug-session","runId":"run1","hypothesisId":"B"}
+{"location":"utils/supabase.ts:3","message":"supabase.ts module loading started","data":{"hasSupabaseUrl":true,"hasSupabaseKey":true},"timestamp":1767366065895,"sessionId":"debug-session","runId":"run1","hypothesisId":"A"}
+{"location":"utils/supabase.ts:10","message":"Supabase env vars validation check","data":{"supabaseUrlValid":true,"supabaseKeyPresent":true},"timestamp":1767366065895,"sessionId":"debug-session","runId":"run1","hypothesisId":"A"}
+{"location":"utils/supabase.ts:23","message":"Supabase env vars validation passed, creating client","data":{},"timestamp":1767366065896,"sessionId":"debug-session","runId":"run1","hypothesisId":"B"}
+{"location":"utils/supabase.ts:26","message":"supabase.ts module loaded successfully","data":{"supabaseClientCreated":true},"timestamp":1767366065901,"sessionId":"debug-session","runId":"run1","hypothesisId":"B"}
+{"location":"app/providers.tsx:5","message":"Providers client component rendering","data":{},"timestamp":1767366067601,"sessionId":"debug-session","runId":"run1","hypothesisId":"D"}
+{"location":"app/providers.tsx:5","message":"Providers client component rendering","data":{},"timestamp":1767366067603,"sessionId":"debug-session","runId":"run1","hypothesisId":"D"}
+{"location":"app/layout.tsx:27","message":"RootLayout rendering started","data":{"hasClerkPublishable":true,"hasClerkSecret":true},"timestamp":1767366087933,"sessionId":"debug-session","runId":"run1","hypothesisId":"E"}
+{"location":"components/navbar/Navbar.tsx:9","message":"Navbar component rendering started","data":{},"timestamp":1767366087936,"sessionId":"debug-session","runId":"run1","hypothesisId":"D"}
+{"location":"app/providers.tsx:5","message":"Providers client component rendering","data":{},"timestamp":1767366087966,"sessionId":"debug-session","runId":"run1","hypothesisId":"D"}
+{"location":"app/providers.tsx:5","message":"Providers client component rendering","data":{},"timestamp":1767366087967,"sessionId":"debug-session","runId":"run1","hypothesisId":"D"}
+{"location":"app/providers.tsx:5","message":"Providers client component rendering","data":{},"timestamp":1767366088037,"sessionId":"debug-session","runId":"run1","hypothesisId":"D"}
+{"location":"app/providers.tsx:5","message":"Providers client component rendering","data":{},"timestamp":1767366088038,"sessionId":"debug-session","runId":"run1","hypothesisId":"D"}
+{"location":"app/providers.tsx:5","message":"Providers client component rendering","data":{},"timestamp":1767366088252,"sessionId":"debug-session","runId":"run1","hypothesisId":"D"}
+{"location":"app/providers.tsx:5","message":"Providers client component rendering","data":{},"timestamp":1767366088253,"sessionId":"debug-session","runId":"run1","hypothesisId":"D"}
+{"location":"app/providers.tsx:5","message":"Providers client component rendering","data":{},"timestamp":1767366088589,"sessionId":"debug-session","runId":"run1","hypothesisId":"D"}
+{"location":"app/providers.tsx:5","message":"Providers client component rendering","data":{},"timestamp":1767366088590,"sessionId":"debug-session","runId":"run1","hypothesisId":"D"}
+{"location":"app/providers.tsx:5","message":"Providers client component rendering","data":{},"timestamp":1767366088866,"sessionId":"debug-session","runId":"run1","hypothesisId":"D"}
+{"location":"app/providers.tsx:5","message":"Providers client component rendering","data":{},"timestamp":1767366088866,"sessionId":"debug-session","runId":"run1","hypothesisId":"D"}
+{"location":"app/providers.tsx:5","message":"Providers client component rendering","data":{},"timestamp":1767366089328,"sessionId":"debug-session","runId":"run1","hypothesisId":"D"}
+{"location":"app/providers.tsx:5","message":"Providers client component rendering","data":{},"timestamp":1767366089329,"sessionId":"debug-session","runId":"run1","hypothesisId":"D"}
+{"location":"app/layout.tsx:27","message":"RootLayout rendering started","data":{"hasClerkPublishable":true,"hasClerkSecret":true},"timestamp":1767366089662,"sessionId":"debug-session","runId":"run1","hypothesisId":"E"}
+{"location":"components/navbar/Navbar.tsx:9","message":"Navbar component rendering started","data":{},"timestamp":1767366089665,"sessionId":"debug-session","runId":"run1","hypothesisId":"D"}
+{"location":"app/providers.tsx:5","message":"Providers client component rendering","data":{},"timestamp":1767366089687,"sessionId":"debug-session","runId":"run1","hypothesisId":"D"}
+{"location":"app/providers.tsx:5","message":"Providers client component rendering","data":{},"timestamp":1767366089687,"sessionId":"debug-session","runId":"run1","hypothesisId":"D"}
+{"location":"app/providers.tsx:5","message":"Providers client component rendering","data":{},"timestamp":1767366089701,"sessionId":"debug-session","runId":"run1","hypothesisId":"D"}
+{"location":"app/providers.tsx:5","message":"Providers client component rendering","data":{},"timestamp":1767366089701,"sessionId":"debug-session","runId":"run1","hypothesisId":"D"}
+{"location":"app/providers.tsx:5","message":"Providers client component rendering","data":{},"timestamp":1767366089731,"sessionId":"debug-session","runId":"run1","hypothesisId":"D"}
+{"location":"app/providers.tsx:5","message":"Providers client component rendering","data":{},"timestamp":1767366089731,"sessionId":"debug-session","runId":"run1","hypothesisId":"D"}
+{"location":"app/providers.tsx:5","message":"Providers client component rendering","data":{},"timestamp":1767366089878,"sessionId":"debug-session","runId":"run1","hypothesisId":"D"}
+{"location":"app/providers.tsx:5","message":"Providers client component rendering","data":{},"timestamp":1767366089879,"sessionId":"debug-session","runId":"run1","hypothesisId":"D"}
+{"location":"app/providers.tsx:5","message":"Providers client component rendering","data":{},"timestamp":1767366089950,"sessionId":"debug-session","runId":"run1","hypothesisId":"D"}
+{"location":"app/providers.tsx:5","message":"Providers client component rendering","data":{},"timestamp":1767366089951,"sessionId":"debug-session","runId":"run1","hypothesisId":"D"}
+{"location":"app/providers.tsx:5","message":"Providers client component rendering","data":{},"timestamp":1767366090435,"sessionId":"debug-session","runId":"run1","hypothesisId":"D"}
+{"location":"app/providers.tsx:5","message":"Providers client component rendering","data":{},"timestamp":1767366090435,"sessionId":"debug-session","runId":"run1","hypothesisId":"D"}
+{"location":"app/providers.tsx:5","message":"Providers client component rendering","data":{},"timestamp":1767366090532,"sessionId":"debug-session","runId":"run1","hypothesisId":"D"}
+{"location":"app/providers.tsx:5","message":"Providers client component rendering","data":{},"timestamp":1767366090532,"sessionId":"debug-session","runId":"run1","hypothesisId":"D"}
+{"location":"app/providers.tsx:5","message":"Providers client component rendering","data":{},"timestamp":1767366090598,"sessionId":"debug-session","runId":"run1","hypothesisId":"D"}
+{"location":"app/providers.tsx:5","message":"Providers client component rendering","data":{},"timestamp":1767366090598,"sessionId":"debug-session","runId":"run1","hypothesisId":"D"}
+{"location":"app/providers.tsx:5","message":"Providers client component rendering","data":{},"timestamp":1767366090829,"sessionId":"debug-session","runId":"run1","hypothesisId":"D"}
+{"location":"app/providers.tsx:5","message":"Providers client component rendering","data":{},"timestamp":1767366090830,"sessionId":"debug-session","runId":"run1","hypothesisId":"D"}
+{"location":"app/providers.tsx:5","message":"Providers client component rendering","data":{},"timestamp":1767366091431,"sessionId":"debug-session","runId":"run1","hypothesisId":"D"}
+{"location":"app/providers.tsx:5","message":"Providers client component rendering","data":{},"timestamp":1767366091432,"sessionId":"debug-session","runId":"run1","hypothesisId":"D"}
+{"location":"components/navbar/Navbar.tsx:9","message":"Navbar component rendering started","data":{},"timestamp":1767366091998,"sessionId":"debug-session","runId":"run1","hypothesisId":"D"}
+{"location":"app/layout.tsx:27","message":"RootLayout rendering started","data":{"hasClerkPublishable":true,"hasClerkSecret":true},"timestamp":1767366091996,"sessionId":"debug-session","runId":"run1","hypothesisId":"E"}
+{"location":"app/providers.tsx:5","message":"Providers client component rendering","data":{},"timestamp":1767366092027,"sessionId":"debug-session","runId":"run1","hypothesisId":"D"}
+{"location":"app/providers.tsx:5","message":"Providers client component rendering","data":{},"timestamp":1767366092027,"sessionId":"debug-session","runId":"run1","hypothesisId":"D"}
+{"location":"app/providers.tsx:5","message":"Providers client component rendering","data":{},"timestamp":1767366092627,"sessionId":"debug-session","runId":"run1","hypothesisId":"D"}
+{"location":"app/providers.tsx:5","message":"Providers client component rendering","data":{},"timestamp":1767366092627,"sessionId":"debug-session","runId":"run1","hypothesisId":"D"}
+{"location":"components/navbar/Navbar.tsx:9","message":"Navbar component rendering started","data":{},"timestamp":1767366136452,"sessionId":"debug-session","runId":"run1","hypothesisId":"D"}
+{"location":"app/layout.tsx:27","message":"RootLayout rendering started","data":{"hasClerkPublishable":true,"hasClerkSecret":true},"timestamp":1767366136449,"sessionId":"debug-session","runId":"run1","hypothesisId":"E"}
+{"location":"app/providers.tsx:5","message":"Providers client component rendering","data":{},"timestamp":1767366138820,"sessionId":"debug-session","runId":"run1","hypothesisId":"D"}
+{"location":"app/providers.tsx:5","message":"Providers client component rendering","data":{},"timestamp":1767366138825,"sessionId":"debug-session","runId":"run1","hypothesisId":"D"}
+{"location":"utils/db.ts:4","message":"db.ts module loading started","data":{"hasDbUrl":true},"timestamp":1767368645586,"sessionId":"debug-session","runId":"run1","hypothesisId":"A"}
+{"location":"utils/db.ts:8","message":"DATABASE_URL validation check","data":{"dbUrlPresent":true,"dbUrlStartsWithPostgres":true},"timestamp":1767368645689,"sessionId":"debug-session","runId":"run1","hypothesisId":"A"}
+{"location":"utils/db.ts:20","message":"DATABASE_URL validation passed, creating PrismaClient","data":{},"timestamp":1767368645691,"sessionId":"debug-session","runId":"run1","hypothesisId":"B"}
+{"location":"utils/db.ts:24","message":"db.ts module loaded successfully","data":{"prismaCreated":true},"timestamp":1767368645739,"sessionId":"debug-session","runId":"run1","hypothesisId":"B"}
+{"location":"utils/supabase.ts:3","message":"supabase.ts module loading started","data":{"hasSupabaseUrl":true,"hasSupabaseKey":true},"timestamp":1767368645943,"sessionId":"debug-session","runId":"run1","hypothesisId":"A"}
+{"location":"utils/supabase.ts:10","message":"Supabase env vars validation check","data":{"supabaseUrlValid":true,"supabaseKeyPresent":true},"timestamp":1767368645945,"sessionId":"debug-session","runId":"run1","hypothesisId":"A"}
+{"location":"utils/supabase.ts:23","message":"Supabase env vars validation passed, creating client","data":{},"timestamp":1767368645946,"sessionId":"debug-session","runId":"run1","hypothesisId":"B"}
+{"location":"utils/supabase.ts:26","message":"supabase.ts module loaded successfully","data":{"supabaseClientCreated":true},"timestamp":1767368645958,"sessionId":"debug-session","runId":"run1","hypothesisId":"B"}
+{"location":"components/navbar/Navbar.tsx:9","message":"Navbar component rendering started","data":{},"timestamp":1767369558309,"sessionId":"debug-session","runId":"run1","hypothesisId":"D"}
+{"location":"app/layout.tsx:27","message":"RootLayout rendering started","data":{"hasClerkPublishable":true,"hasClerkSecret":true},"timestamp":1767369558307,"sessionId":"debug-session","runId":"run1","hypothesisId":"E"}
+{"location":"app/providers.tsx:5","message":"Providers client component rendering","data":{},"timestamp":1767369569660,"sessionId":"debug-session","runId":"run1","hypothesisId":"D"}
+{"location":"app/providers.tsx:5","message":"Providers client component rendering","data":{},"timestamp":1767369569662,"sessionId":"debug-session","runId":"run1","hypothesisId":"D"}
+{"location":"app/providers.tsx:5","message":"Providers client component rendering","data":{},"timestamp":1767369569726,"sessionId":"debug-session","runId":"run1","hypothesisId":"D"}
+{"location":"app/providers.tsx:5","message":"Providers client component rendering","data":{},"timestamp":1767369569727,"sessionId":"debug-session","runId":"run1","hypothesisId":"D"}
+{"location":"components/navbar/Navbar.tsx:9","message":"Navbar component rendering started","data":{},"timestamp":1767369653810,"sessionId":"debug-session","runId":"run1","hypothesisId":"D"}
+{"location":"app/layout.tsx:27","message":"RootLayout rendering started","data":{"hasClerkPublishable":true,"hasClerkSecret":true},"timestamp":1767369653808,"sessionId":"debug-session","runId":"run1","hypothesisId":"E"}
+{"location":"app/providers.tsx:5","message":"Providers client component rendering","data":{},"timestamp":1767369656074,"sessionId":"debug-session","runId":"run1","hypothesisId":"D"}
+{"location":"app/providers.tsx:5","message":"Providers client component rendering","data":{},"timestamp":1767369656075,"sessionId":"debug-session","runId":"run1","hypothesisId":"D"}
+{"location":"utils/db.ts:4","message":"db.ts module loading started","data":{"hasDbUrl":true},"timestamp":1767369669449,"sessionId":"debug-session","runId":"run1","hypothesisId":"A"}
+{"location":"utils/db.ts:8","message":"DATABASE_URL validation check","data":{"dbUrlPresent":true,"dbUrlStartsWithPostgres":true},"timestamp":1767369669464,"sessionId":"debug-session","runId":"run1","hypothesisId":"A"}
+{"location":"utils/db.ts:20","message":"DATABASE_URL validation passed, creating PrismaClient","data":{},"timestamp":1767369669467,"sessionId":"debug-session","runId":"run1","hypothesisId":"B"}
+{"location":"utils/db.ts:24","message":"db.ts module loaded successfully","data":{"prismaCreated":true},"timestamp":1767369669475,"sessionId":"debug-session","runId":"run1","hypothesisId":"B"}
+{"location":"utils/supabase.ts:3","message":"supabase.ts module loading started","data":{"hasSupabaseUrl":true,"hasSupabaseKey":true},"timestamp":1767369669622,"sessionId":"debug-session","runId":"run1","hypothesisId":"A"}
+{"location":"utils/supabase.ts:10","message":"Supabase env vars validation check","data":{"supabaseUrlValid":true,"supabaseKeyPresent":true},"timestamp":1767369669625,"sessionId":"debug-session","runId":"run1","hypothesisId":"A"}
+{"location":"utils/supabase.ts:23","message":"Supabase env vars validation passed, creating client","data":{},"timestamp":1767369669626,"sessionId":"debug-session","runId":"run1","hypothesisId":"B"}
+{"location":"utils/supabase.ts:26","message":"supabase.ts module loaded successfully","data":{"supabaseClientCreated":true},"timestamp":1767369669635,"sessionId":"debug-session","runId":"run1","hypothesisId":"B"}
+{"location":"components/navbar/Navbar.tsx:9","message":"Navbar component rendering started","data":{},"timestamp":1767369698380,"sessionId":"debug-session","runId":"run1","hypothesisId":"D"}
+{"location":"app/layout.tsx:27","message":"RootLayout rendering started","data":{"hasClerkPublishable":true,"hasClerkSecret":true},"timestamp":1767369698378,"sessionId":"debug-session","runId":"run1","hypothesisId":"E"}
+{"location":"app/providers.tsx:5","message":"Providers client component rendering","data":{},"timestamp":1767369700514,"sessionId":"debug-session","runId":"run1","hypothesisId":"D"}
+{"location":"app/providers.tsx:5","message":"Providers client component rendering","data":{},"timestamp":1767369700516,"sessionId":"debug-session","runId":"run1","hypothesisId":"D"}
+{"location":"components/navbar/Navbar.tsx:9","message":"Navbar component rendering started","data":{},"timestamp":1767370674137,"sessionId":"debug-session","runId":"run1","hypothesisId":"D"}
+{"location":"utils/db.ts:4","message":"db.ts module loading started","data":{"hasDbUrl":true},"timestamp":1767370674032,"sessionId":"debug-session","runId":"run1","hypothesisId":"A"}
+{"location":"utils/db.ts:8","message":"DATABASE_URL validation check","data":{"dbUrlPresent":true,"dbUrlStartsWithPostgres":true},"timestamp":1767370674035,"sessionId":"debug-session","runId":"run1","hypothesisId":"A"}
+{"location":"utils/db.ts:20","message":"DATABASE_URL validation passed, creating PrismaClient","data":{},"timestamp":1767370674035,"sessionId":"debug-session","runId":"run1","hypothesisId":"B"}
+{"location":"utils/db.ts:24","message":"db.ts module loaded successfully","data":{"prismaCreated":true},"timestamp":1767370674035,"sessionId":"debug-session","runId":"run1","hypothesisId":"B"}
+{"location":"utils/supabase.ts:3","message":"supabase.ts module loading started","data":{"hasSupabaseUrl":true,"hasSupabaseKey":true},"timestamp":1767370674096,"sessionId":"debug-session","runId":"run1","hypothesisId":"A"}
+{"location":"utils/supabase.ts:10","message":"Supabase env vars validation check","data":{"supabaseUrlValid":true,"supabaseKeyPresent":true},"timestamp":1767370674096,"sessionId":"debug-session","runId":"run1","hypothesisId":"A"}
+{"location":"utils/supabase.ts:23","message":"Supabase env vars validation passed, creating client","data":{},"timestamp":1767370674097,"sessionId":"debug-session","runId":"run1","hypothesisId":"B"}
+{"location":"utils/supabase.ts:26","message":"supabase.ts module loaded successfully","data":{"supabaseClientCreated":true},"timestamp":1767370674101,"sessionId":"debug-session","runId":"run1","hypothesisId":"B"}
+{"location":"app/layout.tsx:27","message":"RootLayout rendering started","data":{"hasClerkPublishable":true,"hasClerkSecret":true},"timestamp":1767370674130,"sessionId":"debug-session","runId":"run1","hypothesisId":"E"}
+{"location":"app/providers.tsx:5","message":"Providers client component rendering","data":{},"timestamp":1767370674241,"sessionId":"debug-session","runId":"run1","hypothesisId":"D"}
+{"location":"app/providers.tsx:5","message":"Providers client component rendering","data":{},"timestamp":1767370674244,"sessionId":"debug-session","runId":"run1","hypothesisId":"D"}
+{"location":"app/providers.tsx:5","message":"Providers client component rendering","data":{},"timestamp":1767370674943,"sessionId":"debug-session","runId":"run1","hypothesisId":"D"}
+{"location":"app/providers.tsx:5","message":"Providers client component rendering","data":{},"timestamp":1767370674944,"sessionId":"debug-session","runId":"run1","hypothesisId":"D"}
+{"location":"app/providers.tsx:5","message":"Providers client component rendering","data":{},"timestamp":1767370675344,"sessionId":"debug-session","runId":"run1","hypothesisId":"D"}
+{"location":"app/providers.tsx:5","message":"Providers client component rendering","data":{},"timestamp":1767370675345,"sessionId":"debug-session","runId":"run1","hypothesisId":"D"}
+{"location":"app/providers.tsx:5","message":"Providers client component rendering","data":{},"timestamp":1767370675990,"sessionId":"debug-session","runId":"run1","hypothesisId":"D"}
+{"location":"app/providers.tsx:5","message":"Providers client component rendering","data":{},"timestamp":1767370675990,"sessionId":"debug-session","runId":"run1","hypothesisId":"D"}
+{"location":"app/providers.tsx:5","message":"Providers client component rendering","data":{},"timestamp":1767370676270,"sessionId":"debug-session","runId":"run1","hypothesisId":"D"}
+{"location":"app/providers.tsx:5","message":"Providers client component rendering","data":{},"timestamp":1767370676271,"sessionId":"debug-session","runId":"run1","hypothesisId":"D"}
+{"location":"app/providers.tsx:5","message":"Providers client component rendering","data":{},"timestamp":1767370676551,"sessionId":"debug-session","runId":"run1","hypothesisId":"D"}
+{"location":"app/providers.tsx:5","message":"Providers client component rendering","data":{},"timestamp":1767370676553,"sessionId":"debug-session","runId":"run1","hypothesisId":"D"}
+{"location":"app/providers.tsx:5","message":"Providers client component rendering","data":{},"timestamp":1767370676834,"sessionId":"debug-session","runId":"run1","hypothesisId":"D"}
+{"location":"app/providers.tsx:5","message":"Providers client component rendering","data":{},"timestamp":1767370676834,"sessionId":"debug-session","runId":"run1","hypothesisId":"D"}
+{"location":"components/navbar/Navbar.tsx:9","message":"Navbar component rendering started","data":{},"timestamp":1767371009570,"sessionId":"debug-session","runId":"run1","hypothesisId":"D"}
+{"location":"utils/db.ts:4","message":"db.ts module loading started","data":{"hasDbUrl":true},"timestamp":1767371009338,"sessionId":"debug-session","runId":"run1","hypothesisId":"A"}
+{"location":"utils/db.ts:20","message":"DATABASE_URL validation passed, creating PrismaClient","data":{},"timestamp":1767371009342,"sessionId":"debug-session","runId":"run1","hypothesisId":"B"}
+{"location":"utils/db.ts:8","message":"DATABASE_URL validation check","data":{"dbUrlPresent":true,"dbUrlStartsWithPostgres":true},"timestamp":1767371009342,"sessionId":"debug-session","runId":"run1","hypothesisId":"A"}
+{"location":"utils/db.ts:24","message":"db.ts module loaded successfully","data":{"prismaCreated":true},"timestamp":1767371009346,"sessionId":"debug-session","runId":"run1","hypothesisId":"B"}
+{"location":"utils/supabase.ts:3","message":"supabase.ts module loading started","data":{"hasSupabaseUrl":true,"hasSupabaseKey":true},"timestamp":1767371009442,"sessionId":"debug-session","runId":"run1","hypothesisId":"A"}
+{"location":"utils/supabase.ts:10","message":"Supabase env vars validation check","data":{"supabaseUrlValid":true,"supabaseKeyPresent":true},"timestamp":1767371009443,"sessionId":"debug-session","runId":"run1","hypothesisId":"A"}
+{"location":"utils/supabase.ts:23","message":"Supabase env vars validation passed, creating client","data":{},"timestamp":1767371009444,"sessionId":"debug-session","runId":"run1","hypothesisId":"B"}
+{"location":"utils/supabase.ts:26","message":"supabase.ts module loaded successfully","data":{"supabaseClientCreated":true},"timestamp":1767371009462,"sessionId":"debug-session","runId":"run1","hypothesisId":"B"}
+{"location":"app/layout.tsx:27","message":"RootLayout rendering started","data":{"hasClerkPublishable":true,"hasClerkSecret":true},"timestamp":1767371009559,"sessionId":"debug-session","runId":"run1","hypothesisId":"E"}
+{"location":"app/providers.tsx:5","message":"Providers client component rendering","data":{},"timestamp":1767371014733,"sessionId":"debug-session","runId":"run1","hypothesisId":"D"}
+{"location":"app/providers.tsx:5","message":"Providers client component rendering","data":{},"timestamp":1767371014735,"sessionId":"debug-session","runId":"run1","hypothesisId":"D"}
+{"location":"app/layout.tsx:27","message":"RootLayout rendering started","data":{"hasClerkPublishable":true,"hasClerkSecret":true},"timestamp":1767371018257,"sessionId":"debug-session","runId":"run1","hypothesisId":"E"}
+{"location":"components/navbar/Navbar.tsx:9","message":"Navbar component rendering started","data":{},"timestamp":1767371018261,"sessionId":"debug-session","runId":"run1","hypothesisId":"D"}
+{"location":"app/providers.tsx:5","message":"Providers client component rendering","data":{},"timestamp":1767371018290,"sessionId":"debug-session","runId":"run1","hypothesisId":"D"}
+{"location":"app/providers.tsx:5","message":"Providers client component rendering","data":{},"timestamp":1767371018290,"sessionId":"debug-session","runId":"run1","hypothesisId":"D"}
+{"location":"app/providers.tsx:5","message":"Providers client component rendering","data":{},"timestamp":1767371018580,"sessionId":"debug-session","runId":"run1","hypothesisId":"D"}
+{"location":"app/providers.tsx:5","message":"Providers client component rendering","data":{},"timestamp":1767371018580,"sessionId":"debug-session","runId":"run1","hypothesisId":"D"}
+{"location":"app/providers.tsx:5","message":"Providers client component rendering","data":{},"timestamp":1767371018906,"sessionId":"debug-session","runId":"run1","hypothesisId":"D"}
+{"location":"app/providers.tsx:5","message":"Providers client component rendering","data":{},"timestamp":1767371018908,"sessionId":"debug-session","runId":"run1","hypothesisId":"D"}
+{"location":"app/providers.tsx:5","message":"Providers client component rendering","data":{},"timestamp":1767371019118,"sessionId":"debug-session","runId":"run1","hypothesisId":"D"}
+{"location":"app/providers.tsx:5","message":"Providers client component rendering","data":{},"timestamp":1767371019118,"sessionId":"debug-session","runId":"run1","hypothesisId":"D"}
+{"location":"app/providers.tsx:5","message":"Providers client component rendering","data":{},"timestamp":1767371019166,"sessionId":"debug-session","runId":"run1","hypothesisId":"D"}
+{"location":"app/providers.tsx:5","message":"Providers client component rendering","data":{},"timestamp":1767371019167,"sessionId":"debug-session","runId":"run1","hypothesisId":"D"}
+{"location":"app/providers.tsx:5","message":"Providers client component rendering","data":{},"timestamp":1767371019220,"sessionId":"debug-session","runId":"run1","hypothesisId":"D"}
+{"location":"app/providers.tsx:5","message":"Providers client component rendering","data":{},"timestamp":1767371019221,"sessionId":"debug-session","runId":"run1","hypothesisId":"D"}
+{"location":"app/providers.tsx:5","message":"Providers client component rendering","data":{},"timestamp":1767371019651,"sessionId":"debug-session","runId":"run1","hypothesisId":"D"}
+{"location":"app/providers.tsx:5","message":"Providers client component rendering","data":{},"timestamp":1767371019651,"sessionId":"debug-session","runId":"run1","hypothesisId":"D"}
+{"location":"app/providers.tsx:5","message":"Providers client component rendering","data":{},"timestamp":1767371020249,"sessionId":"debug-session","runId":"run1","hypothesisId":"D"}
+{"location":"app/providers.tsx:5","message":"Providers client component rendering","data":{},"timestamp":1767371020250,"sessionId":"debug-session","runId":"run1","hypothesisId":"D"}
+{"location":"components/navbar/Navbar.tsx:9","message":"Navbar component rendering started","data":{},"timestamp":1767371021532,"sessionId":"debug-session","runId":"run1","hypothesisId":"D"}
+{"location":"app/layout.tsx:27","message":"RootLayout rendering started","data":{"hasClerkPublishable":true,"hasClerkSecret":true},"timestamp":1767371021530,"sessionId":"debug-session","runId":"run1","hypothesisId":"E"}
+{"location":"app/providers.tsx:5","message":"Providers client component rendering","data":{},"timestamp":1767371021559,"sessionId":"debug-session","runId":"run1","hypothesisId":"D"}
+{"location":"app/providers.tsx:5","message":"Providers client component rendering","data":{},"timestamp":1767371021560,"sessionId":"debug-session","runId":"run1","hypothesisId":"D"}
+{"location":"app/providers.tsx:5","message":"Providers client component rendering","data":{},"timestamp":1767371022160,"sessionId":"debug-session","runId":"run1","hypothesisId":"D"}
+{"location":"app/providers.tsx:5","message":"Providers client component rendering","data":{},"timestamp":1767371022161,"sessionId":"debug-session","runId":"run1","hypothesisId":"D"}
+{"location":"components/navbar/Navbar.tsx:9","message":"Navbar component rendering started","data":{},"timestamp":1767371028799,"sessionId":"debug-session","runId":"run1","hypothesisId":"D"}
+{"location":"app/layout.tsx:27","message":"RootLayout rendering started","data":{"hasClerkPublishable":true,"hasClerkSecret":true},"timestamp":1767371028797,"sessionId":"debug-session","runId":"run1","hypothesisId":"E"}
+{"location":"app/providers.tsx:5","message":"Providers client component rendering","data":{},"timestamp":1767371031209,"sessionId":"debug-session","runId":"run1","hypothesisId":"D"}
+{"location":"app/providers.tsx:5","message":"Providers client component rendering","data":{},"timestamp":1767371031211,"sessionId":"debug-session","runId":"run1","hypothesisId":"D"}
+{"location":"utils/db.ts:4","message":"db.ts module loading started","data":{"hasDbUrl":true},"timestamp":1767371055358,"sessionId":"debug-session","runId":"run1","hypothesisId":"A"}
+{"location":"utils/db.ts:8","message":"DATABASE_URL validation check","data":{"dbUrlPresent":true,"dbUrlStartsWithPostgres":true},"timestamp":1767371055363,"sessionId":"debug-session","runId":"run1","hypothesisId":"A"}
+{"location":"utils/db.ts:20","message":"DATABASE_URL validation passed, creating PrismaClient","data":{},"timestamp":1767371055364,"sessionId":"debug-session","runId":"run1","hypothesisId":"B"}
+{"location":"utils/db.ts:24","message":"db.ts module loaded successfully","data":{"prismaCreated":true},"timestamp":1767371055365,"sessionId":"debug-session","runId":"run1","hypothesisId":"B"}
+{"location":"utils/supabase.ts:3","message":"supabase.ts module loading started","data":{"hasSupabaseUrl":true,"hasSupabaseKey":true},"timestamp":1767371055445,"sessionId":"debug-session","runId":"run1","hypothesisId":"A"}
+{"location":"utils/supabase.ts:10","message":"Supabase env vars validation check","data":{"supabaseUrlValid":true,"supabaseKeyPresent":true},"timestamp":1767371055447,"sessionId":"debug-session","runId":"run1","hypothesisId":"A"}
+{"location":"utils/supabase.ts:23","message":"Supabase env vars validation passed, creating client","data":{},"timestamp":1767371055448,"sessionId":"debug-session","runId":"run1","hypothesisId":"B"}
+{"location":"utils/supabase.ts:26","message":"supabase.ts module loaded successfully","data":{"supabaseClientCreated":true},"timestamp":1767371055453,"sessionId":"debug-session","runId":"run1","hypothesisId":"B"}
+{"location":"app/layout.tsx:27","message":"RootLayout rendering started","data":{"hasClerkPublishable":true,"hasClerkSecret":true},"timestamp":1767371055488,"sessionId":"debug-session","runId":"run1","hypothesisId":"E"}
+{"location":"components/navbar/Navbar.tsx:9","message":"Navbar component rendering started","data":{},"timestamp":1767371055496,"sessionId":"debug-session","runId":"run1","hypothesisId":"D"}
+{"location":"app/providers.tsx:5","message":"Providers client component rendering","data":{},"timestamp":1767371055548,"sessionId":"debug-session","runId":"run1","hypothesisId":"D"}
+{"location":"app/providers.tsx:5","message":"Providers client component rendering","data":{},"timestamp":1767371055548,"sessionId":"debug-session","runId":"run1","hypothesisId":"D"}
+{"location":"app/providers.tsx:5","message":"Providers client component rendering","data":{},"timestamp":1767371056166,"sessionId":"debug-session","runId":"run1","hypothesisId":"D"}
+{"location":"app/providers.tsx:5","message":"Providers client component rendering","data":{},"timestamp":1767371056167,"sessionId":"debug-session","runId":"run1","hypothesisId":"D"}
+{"location":"components/navbar/Navbar.tsx:9","message":"Navbar component rendering started","data":{},"timestamp":1767371056287,"sessionId":"debug-session","runId":"run1","hypothesisId":"D"}
+{"location":"app/layout.tsx:27","message":"RootLayout rendering started","data":{"hasClerkPublishable":true,"hasClerkSecret":true},"timestamp":1767371056286,"sessionId":"debug-session","runId":"run1","hypothesisId":"E"}
+{"location":"components/navbar/Navbar.tsx:9","message":"Navbar component rendering started","data":{},"timestamp":1767371057797,"sessionId":"debug-session","runId":"run1","hypothesisId":"D"}
+{"location":"app/layout.tsx:27","message":"RootLayout rendering started","data":{"hasClerkPublishable":true,"hasClerkSecret":true},"timestamp":1767371057793,"sessionId":"debug-session","runId":"run1","hypothesisId":"E"}
+{"location":"app/providers.tsx:5","message":"Providers client component rendering","data":{},"timestamp":1767371059327,"sessionId":"debug-session","runId":"run1","hypothesisId":"D"}
+{"location":"app/providers.tsx:5","message":"Providers client component rendering","data":{},"timestamp":1767371059329,"sessionId":"debug-session","runId":"run1","hypothesisId":"D"}
+{"location":"components/navbar/Navbar.tsx:9","message":"Navbar component rendering started","data":{},"timestamp":1767371092160,"sessionId":"debug-session","runId":"run1","hypothesisId":"D"}
+{"location":"utils/db.ts:4","message":"db.ts module loading started","data":{"hasDbUrl":true},"timestamp":1767371091903,"sessionId":"debug-session","runId":"run1","hypothesisId":"A"}
+{"location":"utils/db.ts:8","message":"DATABASE_URL validation check","data":{"dbUrlPresent":true,"dbUrlStartsWithPostgres":true},"timestamp":1767371091908,"sessionId":"debug-session","runId":"run1","hypothesisId":"A"}
+{"location":"utils/db.ts:20","message":"DATABASE_URL validation passed, creating PrismaClient","data":{},"timestamp":1767371091908,"sessionId":"debug-session","runId":"run1","hypothesisId":"B"}
+{"location":"utils/db.ts:24","message":"db.ts module loaded successfully","data":{"prismaCreated":true},"timestamp":1767371091909,"sessionId":"debug-session","runId":"run1","hypothesisId":"B"}
+{"location":"utils/supabase.ts:3","message":"supabase.ts module loading started","data":{"hasSupabaseUrl":true,"hasSupabaseKey":true},"timestamp":1767371092052,"sessionId":"debug-session","runId":"run1","hypothesisId":"A"}
+{"location":"utils/supabase.ts:10","message":"Supabase env vars validation check","data":{"supabaseUrlValid":true,"supabaseKeyPresent":true},"timestamp":1767371092053,"sessionId":"debug-session","runId":"run1","hypothesisId":"A"}
+{"location":"utils/supabase.ts:23","message":"Supabase env vars validation passed, creating client","data":{},"timestamp":1767371092054,"sessionId":"debug-session","runId":"run1","hypothesisId":"B"}
+{"location":"utils/supabase.ts:26","message":"supabase.ts module loaded successfully","data":{"supabaseClientCreated":true},"timestamp":1767371092064,"sessionId":"debug-session","runId":"run1","hypothesisId":"B"}
+{"location":"app/layout.tsx:27","message":"RootLayout rendering started","data":{"hasClerkPublishable":true,"hasClerkSecret":true},"timestamp":1767371092148,"sessionId":"debug-session","runId":"run1","hypothesisId":"E"}
+{"location":"app/providers.tsx:5","message":"Providers client component rendering","data":{},"timestamp":1767371092366,"sessionId":"debug-session","runId":"run1","hypothesisId":"D"}
+{"location":"app/providers.tsx:5","message":"Providers client component rendering","data":{},"timestamp":1767371092367,"sessionId":"debug-session","runId":"run1","hypothesisId":"D"}
+{"location":"app/providers.tsx:5","message":"Providers client component rendering","data":{},"timestamp":1767371092865,"sessionId":"debug-session","runId":"run1","hypothesisId":"D"}
+{"location":"app/providers.tsx:5","message":"Providers client component rendering","data":{},"timestamp":1767371092868,"sessionId":"debug-session","runId":"run1","hypothesisId":"D"}
+{"location":"app/providers.tsx:5","message":"Providers client component rendering","data":{},"timestamp":1767371093524,"sessionId":"debug-session","runId":"run1","hypothesisId":"D"}
+{"location":"app/providers.tsx:5","message":"Providers client component rendering","data":{},"timestamp":1767371093525,"sessionId":"debug-session","runId":"run1","hypothesisId":"D"}
+{"location":"app/providers.tsx:5","message":"Providers client component rendering","data":{},"timestamp":1767371093828,"sessionId":"debug-session","runId":"run1","hypothesisId":"D"}
+{"location":"app/providers.tsx:5","message":"Providers client component rendering","data":{},"timestamp":1767371093828,"sessionId":"debug-session","runId":"run1","hypothesisId":"D"}
+{"location":"app/providers.tsx:5","message":"Providers client component rendering","data":{},"timestamp":1767371094139,"sessionId":"debug-session","runId":"run1","hypothesisId":"D"}
+{"location":"app/providers.tsx:5","message":"Providers client component rendering","data":{},"timestamp":1767371094140,"sessionId":"debug-session","runId":"run1","hypothesisId":"D"}
+{"location":"components/navbar/Navbar.tsx:9","message":"Navbar component rendering started","data":{},"timestamp":1767371097577,"sessionId":"debug-session","runId":"run1","hypothesisId":"D"}
+{"location":"utils/db.ts:4","message":"db.ts module loading started","data":{"hasDbUrl":true},"timestamp":1767371097530,"sessionId":"debug-session","runId":"run1","hypothesisId":"A"}
+{"location":"utils/db.ts:8","message":"DATABASE_URL validation check","data":{"dbUrlPresent":true,"dbUrlStartsWithPostgres":true},"timestamp":1767371097531,"sessionId":"debug-session","runId":"run1","hypothesisId":"A"}
+{"location":"utils/db.ts:20","message":"DATABASE_URL validation passed, creating PrismaClient","data":{},"timestamp":1767371097531,"sessionId":"debug-session","runId":"run1","hypothesisId":"B"}
+{"location":"utils/db.ts:24","message":"db.ts module loaded successfully","data":{"prismaCreated":true},"timestamp":1767371097532,"sessionId":"debug-session","runId":"run1","hypothesisId":"B"}
+{"location":"utils/supabase.ts:3","message":"supabase.ts module loading started","data":{"hasSupabaseUrl":true,"hasSupabaseKey":true},"timestamp":1767371097555,"sessionId":"debug-session","runId":"run1","hypothesisId":"A"}
+{"location":"utils/supabase.ts:10","message":"Supabase env vars validation check","data":{"supabaseUrlValid":true,"supabaseKeyPresent":true},"timestamp":1767371097556,"sessionId":"debug-session","runId":"run1","hypothesisId":"A"}
+{"location":"utils/supabase.ts:23","message":"Supabase env vars validation passed, creating client","data":{},"timestamp":1767371097556,"sessionId":"debug-session","runId":"run1","hypothesisId":"B"}
+{"location":"utils/supabase.ts:26","message":"supabase.ts module loaded successfully","data":{"supabaseClientCreated":true},"timestamp":1767371097558,"sessionId":"debug-session","runId":"run1","hypothesisId":"B"}
+{"location":"app/layout.tsx:27","message":"RootLayout rendering started","data":{"hasClerkPublishable":true,"hasClerkSecret":true},"timestamp":1767371097573,"sessionId":"debug-session","runId":"run1","hypothesisId":"E"}
+{"location":"app/providers.tsx:5","message":"Providers client component rendering","data":{},"timestamp":1767371097666,"sessionId":"debug-session","runId":"run1","hypothesisId":"D"}
+{"location":"app/providers.tsx:5","message":"Providers client component rendering","data":{},"timestamp":1767371097666,"sessionId":"debug-session","runId":"run1","hypothesisId":"D"}
+{"location":"app/providers.tsx:5","message":"Providers client component rendering","data":{},"timestamp":1767371098205,"sessionId":"debug-session","runId":"run1","hypothesisId":"D"}
+{"location":"app/providers.tsx:5","message":"Providers client component rendering","data":{},"timestamp":1767371098208,"sessionId":"debug-session","runId":"run1","hypothesisId":"D"}
+{"location":"app/providers.tsx:5","message":"Providers client component rendering","data":{},"timestamp":1767371098693,"sessionId":"debug-session","runId":"run1","hypothesisId":"D"}
+{"location":"app/providers.tsx:5","message":"Providers client component rendering","data":{},"timestamp":1767371098708,"sessionId":"debug-session","runId":"run1","hypothesisId":"D"}
+{"location":"app/providers.tsx:5","message":"Providers client component rendering","data":{},"timestamp":1767371098988,"sessionId":"debug-session","runId":"run1","hypothesisId":"D"}
+{"location":"app/providers.tsx:5","message":"Providers client component rendering","data":{},"timestamp":1767371098994,"sessionId":"debug-session","runId":"run1","hypothesisId":"D"}
+{"location":"app/providers.tsx:5","message":"Providers client component rendering","data":{},"timestamp":1767371099294,"sessionId":"debug-session","runId":"run1","hypothesisId":"D"}
+{"location":"app/providers.tsx:5","message":"Providers client component rendering","data":{},"timestamp":1767371099295,"sessionId":"debug-session","runId":"run1","hypothesisId":"D"}
+{"location":"components/navbar/Navbar.tsx:9","message":"Navbar component rendering started","data":{},"timestamp":1767371100296,"sessionId":"debug-session","runId":"run1","hypothesisId":"D"}
+{"location":"utils/db.ts:4","message":"db.ts module loading started","data":{"hasDbUrl":true},"timestamp":1767371100193,"sessionId":"debug-session","runId":"run1","hypothesisId":"A"}
+{"location":"utils/db.ts:8","message":"DATABASE_URL validation check","data":{"dbUrlPresent":true,"dbUrlStartsWithPostgres":true},"timestamp":1767371100200,"sessionId":"debug-session","runId":"run1","hypothesisId":"A"}
+{"location":"utils/db.ts:20","message":"DATABASE_URL validation passed, creating PrismaClient","data":{},"timestamp":1767371100200,"sessionId":"debug-session","runId":"run1","hypothesisId":"B"}
+{"location":"utils/db.ts:24","message":"db.ts module loaded successfully","data":{"prismaCreated":true},"timestamp":1767371100201,"sessionId":"debug-session","runId":"run1","hypothesisId":"B"}
+{"location":"utils/supabase.ts:3","message":"supabase.ts module loading started","data":{"hasSupabaseUrl":true,"hasSupabaseKey":true},"timestamp":1767371100251,"sessionId":"debug-session","runId":"run1","hypothesisId":"A"}
+{"location":"utils/supabase.ts:10","message":"Supabase env vars validation check","data":{"supabaseUrlValid":true,"supabaseKeyPresent":true},"timestamp":1767371100252,"sessionId":"debug-session","runId":"run1","hypothesisId":"A"}
+{"location":"utils/supabase.ts:23","message":"Supabase env vars validation passed, creating client","data":{},"timestamp":1767371100253,"sessionId":"debug-session","runId":"run1","hypothesisId":"B"}
+{"location":"utils/supabase.ts:26","message":"supabase.ts module loaded successfully","data":{"supabaseClientCreated":true},"timestamp":1767371100256,"sessionId":"debug-session","runId":"run1","hypothesisId":"B"}
+{"location":"app/layout.tsx:27","message":"RootLayout rendering started","data":{"hasClerkPublishable":true,"hasClerkSecret":true},"timestamp":1767371100288,"sessionId":"debug-session","runId":"run1","hypothesisId":"E"}
+{"location":"components/navbar/Navbar.tsx:9","message":"Navbar component rendering started","data":{},"timestamp":1767371100473,"sessionId":"debug-session","runId":"run1","hypothesisId":"D"}
+{"location":"components/navbar/Navbar.tsx:9","message":"Navbar component rendering started","data":{},"timestamp":1767371100488,"sessionId":"debug-session","runId":"run1","hypothesisId":"D"}
+{"location":"app/layout.tsx:27","message":"RootLayout rendering started","data":{"hasClerkPublishable":true,"hasClerkSecret":true},"timestamp":1767371100470,"sessionId":"debug-session","runId":"run1","hypothesisId":"E"}
+{"location":"app/layout.tsx:27","message":"RootLayout rendering started","data":{"hasClerkPublishable":true,"hasClerkSecret":true},"timestamp":1767371100487,"sessionId":"debug-session","runId":"run1","hypothesisId":"E"}
+{"location":"components/navbar/Navbar.tsx:9","message":"Navbar component rendering started","data":{},"timestamp":1767371100835,"sessionId":"debug-session","runId":"run1","hypothesisId":"D"}
+{"location":"app/layout.tsx:27","message":"RootLayout rendering started","data":{"hasClerkPublishable":true,"hasClerkSecret":true},"timestamp":1767371100833,"sessionId":"debug-session","runId":"run1","hypothesisId":"E"}
+{"location":"components/navbar/Navbar.tsx:9","message":"Navbar component rendering started","data":{},"timestamp":1767371103847,"sessionId":"debug-session","runId":"run1","hypothesisId":"D"}
+{"location":"app/layout.tsx:27","message":"RootLayout rendering started","data":{"hasClerkPublishable":true,"hasClerkSecret":true},"timestamp":1767371103845,"sessionId":"debug-session","runId":"run1","hypothesisId":"E"}
+{"location":"components/navbar/Navbar.tsx:9","message":"Navbar component rendering started","data":{},"timestamp":1767371103973,"sessionId":"debug-session","runId":"run1","hypothesisId":"D"}
+{"location":"app/layout.tsx:27","message":"RootLayout rendering started","data":{"hasClerkPublishable":true,"hasClerkSecret":true},"timestamp":1767371103971,"sessionId":"debug-session","runId":"run1","hypothesisId":"E"}
+{"location":"components/navbar/Navbar.tsx:9","message":"Navbar component rendering started","data":{},"timestamp":1767371105266,"sessionId":"debug-session","runId":"run1","hypothesisId":"D"}
+{"location":"app/layout.tsx:27","message":"RootLayout rendering started","data":{"hasClerkPublishable":true,"hasClerkSecret":true},"timestamp":1767371105262,"sessionId":"debug-session","runId":"run1","hypothesisId":"E"}
+{"location":"components/navbar/Navbar.tsx:9","message":"Navbar component rendering started","data":{},"timestamp":1767371105385,"sessionId":"debug-session","runId":"run1","hypothesisId":"D"}
+{"location":"app/layout.tsx:27","message":"RootLayout rendering started","data":{"hasClerkPublishable":true,"hasClerkSecret":true},"timestamp":1767371105383,"sessionId":"debug-session","runId":"run1","hypothesisId":"E"}
+{"location":"app/providers.tsx:5","message":"Providers client component rendering","data":{},"timestamp":1767371107042,"sessionId":"debug-session","runId":"run1","hypothesisId":"D"}
+{"location":"app/providers.tsx:5","message":"Providers client component rendering","data":{},"timestamp":1767371107045,"sessionId":"debug-session","runId":"run1","hypothesisId":"D"}
+{"location":"components/navbar/Navbar.tsx:9","message":"Navbar component rendering started","data":{},"timestamp":1767371126335,"sessionId":"debug-session","runId":"run1","hypothesisId":"D"}
+{"location":"utils/db.ts:4","message":"db.ts module loading started","data":{"hasDbUrl":true},"timestamp":1767371126267,"sessionId":"debug-session","runId":"run1","hypothesisId":"A"}
+{"location":"utils/db.ts:8","message":"DATABASE_URL validation check","data":{"dbUrlPresent":true,"dbUrlStartsWithPostgres":true},"timestamp":1767371126268,"sessionId":"debug-session","runId":"run1","hypothesisId":"A"}
+{"location":"utils/db.ts:20","message":"DATABASE_URL validation passed, creating PrismaClient","data":{},"timestamp":1767371126268,"sessionId":"debug-session","runId":"run1","hypothesisId":"B"}
+{"location":"utils/db.ts:24","message":"db.ts module loaded successfully","data":{"prismaCreated":true},"timestamp":1767371126269,"sessionId":"debug-session","runId":"run1","hypothesisId":"B"}
+{"location":"utils/supabase.ts:3","message":"supabase.ts module loading started","data":{"hasSupabaseUrl":true,"hasSupabaseKey":true},"timestamp":1767371126285,"sessionId":"debug-session","runId":"run1","hypothesisId":"A"}
+{"location":"utils/supabase.ts:10","message":"Supabase env vars validation check","data":{"supabaseUrlValid":true,"supabaseKeyPresent":true},"timestamp":1767371126286,"sessionId":"debug-session","runId":"run1","hypothesisId":"A"}
+{"location":"utils/supabase.ts:23","message":"Supabase env vars validation passed, creating client","data":{},"timestamp":1767371126286,"sessionId":"debug-session","runId":"run1","hypothesisId":"B"}
+{"location":"utils/supabase.ts:26","message":"supabase.ts module loaded successfully","data":{"supabaseClientCreated":true},"timestamp":1767371126288,"sessionId":"debug-session","runId":"run1","hypothesisId":"B"}
+{"location":"app/layout.tsx:27","message":"RootLayout rendering started","data":{"hasClerkPublishable":true,"hasClerkSecret":true},"timestamp":1767371126330,"sessionId":"debug-session","runId":"run1","hypothesisId":"E"}
+{"location":"app/providers.tsx:5","message":"Providers client component rendering","data":{},"timestamp":1767371126424,"sessionId":"debug-session","runId":"run1","hypothesisId":"D"}
+{"location":"app/providers.tsx:5","message":"Providers client component rendering","data":{},"timestamp":1767371126425,"sessionId":"debug-session","runId":"run1","hypothesisId":"D"}
+{"location":"app/providers.tsx:5","message":"Providers client component rendering","data":{},"timestamp":1767371127023,"sessionId":"debug-session","runId":"run1","hypothesisId":"D"}
+{"location":"app/providers.tsx:5","message":"Providers client component rendering","data":{},"timestamp":1767371127026,"sessionId":"debug-session","runId":"run1","hypothesisId":"D"}
+{"location":"app/providers.tsx:5","message":"Providers client component rendering","data":{},"timestamp":1767371127576,"sessionId":"debug-session","runId":"run1","hypothesisId":"D"}
+{"location":"app/providers.tsx:5","message":"Providers client component rendering","data":{},"timestamp":1767371127583,"sessionId":"debug-session","runId":"run1","hypothesisId":"D"}
+{"location":"app/providers.tsx:5","message":"Providers client component rendering","data":{},"timestamp":1767371127813,"sessionId":"debug-session","runId":"run1","hypothesisId":"D"}
+{"location":"app/providers.tsx:5","message":"Providers client component rendering","data":{},"timestamp":1767371127814,"sessionId":"debug-session","runId":"run1","hypothesisId":"D"}
+{"location":"app/providers.tsx:5","message":"Providers client component rendering","data":{},"timestamp":1767371128009,"sessionId":"debug-session","runId":"run1","hypothesisId":"D"}
+{"location":"app/providers.tsx:5","message":"Providers client component rendering","data":{},"timestamp":1767371128015,"sessionId":"debug-session","runId":"run1","hypothesisId":"D"}
+{"location":"app/providers.tsx:5","message":"Providers client component rendering","data":{},"timestamp":1767371128122,"sessionId":"debug-session","runId":"run1","hypothesisId":"D"}
+{"location":"app/providers.tsx:5","message":"Providers client component rendering","data":{},"timestamp":1767371128123,"sessionId":"debug-session","runId":"run1","hypothesisId":"D"}
+{"location":"utils/db.ts:4","message":"db.ts module loading started","data":{"hasDbUrl":true},"timestamp":1767371184881,"sessionId":"debug-session","runId":"run1","hypothesisId":"A"}
+{"location":"utils/db.ts:8","message":"DATABASE_URL validation check","data":{"dbUrlPresent":true,"dbUrlStartsWithPostgres":true},"timestamp":1767371184896,"sessionId":"debug-session","runId":"run1","hypothesisId":"A"}
+{"location":"utils/db.ts:20","message":"DATABASE_URL validation passed, creating PrismaClient","data":{},"timestamp":1767371184897,"sessionId":"debug-session","runId":"run1","hypothesisId":"B"}
+{"location":"utils/db.ts:24","message":"db.ts module loaded successfully","data":{"prismaCreated":true},"timestamp":1767371184903,"sessionId":"debug-session","runId":"run1","hypothesisId":"B"}
+{"location":"utils/supabase.ts:3","message":"supabase.ts module loading started","data":{"hasSupabaseUrl":true,"hasSupabaseKey":true},"timestamp":1767371185001,"sessionId":"debug-session","runId":"run1","hypothesisId":"A"}
+{"location":"utils/supabase.ts:10","message":"Supabase env vars validation check","data":{"supabaseUrlValid":true,"supabaseKeyPresent":true},"timestamp":1767371185003,"sessionId":"debug-session","runId":"run1","hypothesisId":"A"}
+{"location":"utils/supabase.ts:23","message":"Supabase env vars validation passed, creating client","data":{},"timestamp":1767371185005,"sessionId":"debug-session","runId":"run1","hypothesisId":"B"}
+{"location":"utils/supabase.ts:26","message":"supabase.ts module loaded successfully","data":{"supabaseClientCreated":true},"timestamp":1767371185014,"sessionId":"debug-session","runId":"run1","hypothesisId":"B"}
+{"location":"app/layout.tsx:27","message":"RootLayout rendering started","data":{"hasClerkPublishable":true,"hasClerkSecret":true},"timestamp":1767371185112,"sessionId":"debug-session","runId":"run1","hypothesisId":"E"}
+{"location":"components/navbar/Navbar.tsx:9","message":"Navbar component rendering started","data":{},"timestamp":1767371185125,"sessionId":"debug-session","runId":"run1","hypothesisId":"D"}
+{"location":"components/navbar/Navbar.tsx:9","message":"Navbar component rendering started","data":{},"timestamp":1767371185190,"sessionId":"debug-session","runId":"run1","hypothesisId":"D"}
+{"location":"app/layout.tsx:27","message":"RootLayout rendering started","data":{"hasClerkPublishable":true,"hasClerkSecret":true},"timestamp":1767371185187,"sessionId":"debug-session","runId":"run1","hypothesisId":"E"}
+{"location":"app/providers.tsx:5","message":"Providers client component rendering","data":{},"timestamp":1767371185980,"sessionId":"debug-session","runId":"run1","hypothesisId":"D"}
+{"location":"app/providers.tsx:5","message":"Providers client component rendering","data":{},"timestamp":1767371185981,"sessionId":"debug-session","runId":"run1","hypothesisId":"D"}
+{"location":"app/providers.tsx:5","message":"Providers client component rendering","data":{},"timestamp":1767371186819,"sessionId":"debug-session","runId":"run1","hypothesisId":"D"}
+{"location":"app/providers.tsx:5","message":"Providers client component rendering","data":{},"timestamp":1767371186821,"sessionId":"debug-session","runId":"run1","hypothesisId":"D"}
+{"location":"app/providers.tsx:5","message":"Providers client component rendering","data":{},"timestamp":1767371190361,"sessionId":"debug-session","runId":"run1","hypothesisId":"D"}
+{"location":"app/providers.tsx:5","message":"Providers client component rendering","data":{},"timestamp":1767371190366,"sessionId":"debug-session","runId":"run1","hypothesisId":"D"}
+{"location":"components/navbar/Navbar.tsx:9","message":"Navbar component rendering started","data":{},"timestamp":1767371193640,"sessionId":"debug-session","runId":"run1","hypothesisId":"D"}
+{"location":"app/layout.tsx:27","message":"RootLayout rendering started","data":{"hasClerkPublishable":true,"hasClerkSecret":true},"timestamp":1767371193637,"sessionId":"debug-session","runId":"run1","hypothesisId":"E"}
+{"location":"app/providers.tsx:5","message":"Providers client component rendering","data":{},"timestamp":1767371195450,"sessionId":"debug-session","runId":"run1","hypothesisId":"D"}
+{"location":"app/providers.tsx:5","message":"Providers client component rendering","data":{},"timestamp":1767371195449,"sessionId":"debug-session","runId":"run1","hypothesisId":"D"}
+{"location":"app/layout.tsx:27","message":"RootLayout rendering started","data":{"hasClerkPublishable":true,"hasClerkSecret":true},"timestamp":1767371197500,"sessionId":"debug-session","runId":"run1","hypothesisId":"E"}
+{"location":"components/navbar/Navbar.tsx:9","message":"Navbar component rendering started","data":{},"timestamp":1767371197502,"sessionId":"debug-session","runId":"run1","hypothesisId":"D"}
+{"location":"app/providers.tsx:5","message":"Providers client component rendering","data":{},"timestamp":1767371197530,"sessionId":"debug-session","runId":"run1","hypothesisId":"D"}
+{"location":"app/providers.tsx:5","message":"Providers client component rendering","data":{},"timestamp":1767371197531,"sessionId":"debug-session","runId":"run1","hypothesisId":"D"}
+{"location":"app/providers.tsx:5","message":"Providers client component rendering","data":{},"timestamp":1767371197628,"sessionId":"debug-session","runId":"run1","hypothesisId":"D"}
+{"location":"app/providers.tsx:5","message":"Providers client component rendering","data":{},"timestamp":1767371197628,"sessionId":"debug-session","runId":"run1","hypothesisId":"D"}
+{"location":"app/providers.tsx:5","message":"Providers client component rendering","data":{},"timestamp":1767371198096,"sessionId":"debug-session","runId":"run1","hypothesisId":"D"}
+{"location":"app/providers.tsx:5","message":"Providers client component rendering","data":{},"timestamp":1767371198097,"sessionId":"debug-session","runId":"run1","hypothesisId":"D"}
+{"location":"app/providers.tsx:5","message":"Providers client component rendering","data":{},"timestamp":1767371198450,"sessionId":"debug-session","runId":"run1","hypothesisId":"D"}
+{"location":"app/providers.tsx:5","message":"Providers client component rendering","data":{},"timestamp":1767371198451,"sessionId":"debug-session","runId":"run1","hypothesisId":"D"}
+{"location":"app/providers.tsx:5","message":"Providers client component rendering","data":{},"timestamp":1767371198661,"sessionId":"debug-session","runId":"run1","hypothesisId":"D"}
+{"location":"app/providers.tsx:5","message":"Providers client component rendering","data":{},"timestamp":1767371198661,"sessionId":"debug-session","runId":"run1","hypothesisId":"D"}
+{"location":"app/providers.tsx:5","message":"Providers client component rendering","data":{},"timestamp":1767371198950,"sessionId":"debug-session","runId":"run1","hypothesisId":"D"}
+{"location":"app/providers.tsx:5","message":"Providers client component rendering","data":{},"timestamp":1767371198950,"sessionId":"debug-session","runId":"run1","hypothesisId":"D"}
+{"location":"components/navbar/Navbar.tsx:9","message":"Navbar component rendering started","data":{},"timestamp":1767371199524,"sessionId":"debug-session","runId":"run1","hypothesisId":"D"}
+{"location":"app/layout.tsx:27","message":"RootLayout rendering started","data":{"hasClerkPublishable":true,"hasClerkSecret":true},"timestamp":1767371199523,"sessionId":"debug-session","runId":"run1","hypothesisId":"E"}
+{"location":"app/providers.tsx:5","message":"Providers client component rendering","data":{},"timestamp":1767371199549,"sessionId":"debug-session","runId":"run1","hypothesisId":"D"}
+{"location":"app/providers.tsx:5","message":"Providers client component rendering","data":{},"timestamp":1767371199551,"sessionId":"debug-session","runId":"run1","hypothesisId":"D"}
+{"location":"app/providers.tsx:5","message":"Providers client component rendering","data":{},"timestamp":1767371200126,"sessionId":"debug-session","runId":"run1","hypothesisId":"D"}
+{"location":"app/providers.tsx:5","message":"Providers client component rendering","data":{},"timestamp":1767371200127,"sessionId":"debug-session","runId":"run1","hypothesisId":"D"}
+{"location":"components/navbar/Navbar.tsx:9","message":"Navbar component rendering started","data":{},"timestamp":1767371216864,"sessionId":"debug-session","runId":"run1","hypothesisId":"D"}
+{"location":"app/layout.tsx:27","message":"RootLayout rendering started","data":{"hasClerkPublishable":true,"hasClerkSecret":true},"timestamp":1767371216862,"sessionId":"debug-session","runId":"run1","hypothesisId":"E"}
+{"location":"app/providers.tsx:5","message":"Providers client component rendering","data":{},"timestamp":1767371218737,"sessionId":"debug-session","runId":"run1","hypothesisId":"D"}
+{"location":"app/providers.tsx:5","message":"Providers client component rendering","data":{},"timestamp":1767371218738,"sessionId":"debug-session","runId":"run1","hypothesisId":"D"}
+{"location":"app/layout.tsx:27","message":"RootLayout rendering started","data":{"hasClerkPublishable":true,"hasClerkSecret":true},"timestamp":1767371220958,"sessionId":"debug-session","runId":"run1","hypothesisId":"E"}
+{"location":"components/navbar/Navbar.tsx:9","message":"Navbar component rendering started","data":{},"timestamp":1767371220960,"sessionId":"debug-session","runId":"run1","hypothesisId":"D"}
+{"location":"app/providers.tsx:5","message":"Providers client component rendering","data":{},"timestamp":1767371220987,"sessionId":"debug-session","runId":"run1","hypothesisId":"D"}
+{"location":"app/providers.tsx:5","message":"Providers client component rendering","data":{},"timestamp":1767371220988,"sessionId":"debug-session","runId":"run1","hypothesisId":"D"}
+{"location":"app/providers.tsx:5","message":"Providers client component rendering","data":{},"timestamp":1767371221085,"sessionId":"debug-session","runId":"run1","hypothesisId":"D"}
+{"location":"app/providers.tsx:5","message":"Providers client component rendering","data":{},"timestamp":1767371221086,"sessionId":"debug-session","runId":"run1","hypothesisId":"D"}
+{"location":"app/providers.tsx:5","message":"Providers client component rendering","data":{},"timestamp":1767371221260,"sessionId":"debug-session","runId":"run1","hypothesisId":"D"}
+{"location":"app/providers.tsx:5","message":"Providers client component rendering","data":{},"timestamp":1767371221260,"sessionId":"debug-session","runId":"run1","hypothesisId":"D"}
+{"location":"app/providers.tsx:5","message":"Providers client component rendering","data":{},"timestamp":1767371221570,"sessionId":"debug-session","runId":"run1","hypothesisId":"D"}
+{"location":"app/providers.tsx:5","message":"Providers client component rendering","data":{},"timestamp":1767371221570,"sessionId":"debug-session","runId":"run1","hypothesisId":"D"}
+{"location":"app/providers.tsx:5","message":"Providers client component rendering","data":{},"timestamp":1767371221906,"sessionId":"debug-session","runId":"run1","hypothesisId":"D"}
+{"location":"app/providers.tsx:5","message":"Providers client component rendering","data":{},"timestamp":1767371221907,"sessionId":"debug-session","runId":"run1","hypothesisId":"D"}
+{"location":"app/providers.tsx:5","message":"Providers client component rendering","data":{},"timestamp":1767371222397,"sessionId":"debug-session","runId":"run1","hypothesisId":"D"}
+{"location":"app/providers.tsx:5","message":"Providers client component rendering","data":{},"timestamp":1767371222398,"sessionId":"debug-session","runId":"run1","hypothesisId":"D"}
+{"location":"app/providers.tsx:5","message":"Providers client component rendering","data":{},"timestamp":1767371222685,"sessionId":"debug-session","runId":"run1","hypothesisId":"D"}
+{"location":"app/providers.tsx:5","message":"Providers client component rendering","data":{},"timestamp":1767371222685,"sessionId":"debug-session","runId":"run1","hypothesisId":"D"}
+{"location":"components/navbar/Navbar.tsx:9","message":"Navbar component rendering started","data":{},"timestamp":1767371223238,"sessionId":"debug-session","runId":"run1","hypothesisId":"D"}
+{"location":"app/layout.tsx:27","message":"RootLayout rendering started","data":{"hasClerkPublishable":true,"hasClerkSecret":true},"timestamp":1767371223237,"sessionId":"debug-session","runId":"run1","hypothesisId":"E"}
+{"location":"app/providers.tsx:5","message":"Providers client component rendering","data":{},"timestamp":1767371223262,"sessionId":"debug-session","runId":"run1","hypothesisId":"D"}
+{"location":"app/providers.tsx:5","message":"Providers client component rendering","data":{},"timestamp":1767371223262,"sessionId":"debug-session","runId":"run1","hypothesisId":"D"}
+{"location":"app/providers.tsx:5","message":"Providers client component rendering","data":{},"timestamp":1767371223537,"sessionId":"debug-session","runId":"run1","hypothesisId":"D"}
+{"location":"app/providers.tsx:5","message":"Providers client component rendering","data":{},"timestamp":1767371223538,"sessionId":"debug-session","runId":"run1","hypothesisId":"D"}
+{"location":"app/providers.tsx:5","message":"Providers client component rendering","data":{},"timestamp":1767371223836,"sessionId":"debug-session","runId":"run1","hypothesisId":"D"}
+{"location":"app/providers.tsx:5","message":"Providers client component rendering","data":{},"timestamp":1767371223836,"sessionId":"debug-session","runId":"run1","hypothesisId":"D"}
+{"location":"app/providers.tsx:5","message":"Providers client component rendering","data":{},"timestamp":1767371227439,"sessionId":"debug-session","runId":"run1","hypothesisId":"D"}
+{"location":"app/providers.tsx:5","message":"Providers client component rendering","data":{},"timestamp":1767371227439,"sessionId":"debug-session","runId":"run1","hypothesisId":"D"}
+{"location":"app/providers.tsx:5","message":"Providers client component rendering","data":{},"timestamp":1767371227485,"sessionId":"debug-session","runId":"run1","hypothesisId":"D"}
+{"location":"app/providers.tsx:5","message":"Providers client component rendering","data":{},"timestamp":1767371227485,"sessionId":"debug-session","runId":"run1","hypothesisId":"D"}
+{"location":"components/navbar/Navbar.tsx:9","message":"Navbar component rendering started","data":{},"timestamp":1767371232930,"sessionId":"debug-session","runId":"run1","hypothesisId":"D"}
+{"location":"app/layout.tsx:27","message":"RootLayout rendering started","data":{"hasClerkPublishable":true,"hasClerkSecret":true},"timestamp":1767371232927,"sessionId":"debug-session","runId":"run1","hypothesisId":"E"}
+{"location":"app/providers.tsx:5","message":"Providers client component rendering","data":{},"timestamp":1767371235010,"sessionId":"debug-session","runId":"run1","hypothesisId":"D"}
+{"location":"app/providers.tsx:5","message":"Providers client component rendering","data":{},"timestamp":1767371235012,"sessionId":"debug-session","runId":"run1","hypothesisId":"D"}
+{"location":"components/navbar/Navbar.tsx:9","message":"Navbar component rendering started","data":{},"timestamp":1767371280734,"sessionId":"debug-session","runId":"run1","hypothesisId":"D"}
+{"location":"app/layout.tsx:27","message":"RootLayout rendering started","data":{"hasClerkPublishable":true,"hasClerkSecret":true},"timestamp":1767371280730,"sessionId":"debug-session","runId":"run1","hypothesisId":"E"}
+{"location":"app/providers.tsx:5","message":"Providers client component rendering","data":{},"timestamp":1767371280976,"sessionId":"debug-session","runId":"run1","hypothesisId":"D"}
+{"location":"app/providers.tsx:5","message":"Providers client component rendering","data":{},"timestamp":1767371280977,"sessionId":"debug-session","runId":"run1","hypothesisId":"D"}
+{"location":"app/providers.tsx:5","message":"Providers client component rendering","data":{},"timestamp":1767371281135,"sessionId":"debug-session","runId":"run1","hypothesisId":"D"}
+{"location":"app/providers.tsx:5","message":"Providers client component rendering","data":{},"timestamp":1767371281137,"sessionId":"debug-session","runId":"run1","hypothesisId":"D"}
+{"location":"app/providers.tsx:5","message":"Providers client component rendering","data":{},"timestamp":1767371281409,"sessionId":"debug-session","runId":"run1","hypothesisId":"D"}
+{"location":"app/providers.tsx:5","message":"Providers client component rendering","data":{},"timestamp":1767371281420,"sessionId":"debug-session","runId":"run1","hypothesisId":"D"}
+{"location":"app/providers.tsx:5","message":"Providers client component rendering","data":{},"timestamp":1767371283503,"sessionId":"debug-session","runId":"run1","hypothesisId":"D"}
+{"location":"app/providers.tsx:5","message":"Providers client component rendering","data":{},"timestamp":1767371283504,"sessionId":"debug-session","runId":"run1","hypothesisId":"D"}
+{"location":"components/navbar/Navbar.tsx:9","message":"Navbar component rendering started","data":{},"timestamp":1767371289700,"sessionId":"debug-session","runId":"run1","hypothesisId":"D"}
+{"location":"utils/db.ts:4","message":"db.ts module loading started","data":{"hasDbUrl":true},"timestamp":1767371289436,"sessionId":"debug-session","runId":"run1","hypothesisId":"A"}
+{"location":"utils/db.ts:8","message":"DATABASE_URL validation check","data":{"dbUrlPresent":true,"dbUrlStartsWithPostgres":true},"timestamp":1767371289441,"sessionId":"debug-session","runId":"run1","hypothesisId":"A"}
+{"location":"utils/db.ts:20","message":"DATABASE_URL validation passed, creating PrismaClient","data":{},"timestamp":1767371289441,"sessionId":"debug-session","runId":"run1","hypothesisId":"B"}
+{"location":"utils/db.ts:24","message":"db.ts module loaded successfully","data":{"prismaCreated":true},"timestamp":1767371289442,"sessionId":"debug-session","runId":"run1","hypothesisId":"B"}
+{"location":"utils/supabase.ts:3","message":"supabase.ts module loading started","data":{"hasSupabaseUrl":true,"hasSupabaseKey":true},"timestamp":1767371289581,"sessionId":"debug-session","runId":"run1","hypothesisId":"A"}
+{"location":"utils/supabase.ts:10","message":"Supabase env vars validation check","data":{"supabaseUrlValid":true,"supabaseKeyPresent":true},"timestamp":1767371289582,"sessionId":"debug-session","runId":"run1","hypothesisId":"A"}
+{"location":"utils/supabase.ts:23","message":"Supabase env vars validation passed, creating client","data":{},"timestamp":1767371289583,"sessionId":"debug-session","runId":"run1","hypothesisId":"B"}
+{"location":"utils/supabase.ts:26","message":"supabase.ts module loaded successfully","data":{"supabaseClientCreated":true},"timestamp":1767371289599,"sessionId":"debug-session","runId":"run1","hypothesisId":"B"}
+{"location":"app/layout.tsx:27","message":"RootLayout rendering started","data":{"hasClerkPublishable":true,"hasClerkSecret":true},"timestamp":1767371289684,"sessionId":"debug-session","runId":"run1","hypothesisId":"E"}
+{"location":"app/providers.tsx:5","message":"Providers client component rendering","data":{},"timestamp":1767371290297,"sessionId":"debug-session","runId":"run1","hypothesisId":"D"}
+{"location":"app/providers.tsx:5","message":"Providers client component rendering","data":{},"timestamp":1767371290318,"sessionId":"debug-session","runId":"run1","hypothesisId":"D"}
+{"location":"app/providers.tsx:5","message":"Providers client component rendering","data":{},"timestamp":1767371290528,"sessionId":"debug-session","runId":"run1","hypothesisId":"D"}
+{"location":"app/providers.tsx:5","message":"Providers client component rendering","data":{},"timestamp":1767371290528,"sessionId":"debug-session","runId":"run1","hypothesisId":"D"}
+{"location":"app/providers.tsx:5","message":"Providers client component rendering","data":{},"timestamp":1767371290997,"sessionId":"debug-session","runId":"run1","hypothesisId":"D"}
+{"location":"app/providers.tsx:5","message":"Providers client component rendering","data":{},"timestamp":1767371290998,"sessionId":"debug-session","runId":"run1","hypothesisId":"D"}
+{"location":"app/providers.tsx:5","message":"Providers client component rendering","data":{},"timestamp":1767371291293,"sessionId":"debug-session","runId":"run1","hypothesisId":"D"}
+{"location":"app/providers.tsx:5","message":"Providers client component rendering","data":{},"timestamp":1767371291296,"sessionId":"debug-session","runId":"run1","hypothesisId":"D"}
+{"location":"app/providers.tsx:5","message":"Providers client component rendering","data":{},"timestamp":1767371291582,"sessionId":"debug-session","runId":"run1","hypothesisId":"D"}
+{"location":"app/providers.tsx:5","message":"Providers client component rendering","data":{},"timestamp":1767371291593,"sessionId":"debug-session","runId":"run1","hypothesisId":"D"}
+{"location":"components/navbar/Navbar.tsx:9","message":"Navbar component rendering started","data":{},"timestamp":1767371292518,"sessionId":"debug-session","runId":"run1","hypothesisId":"D"}
+{"location":"utils/db.ts:4","message":"db.ts module loading started","data":{"hasDbUrl":true},"timestamp":1767371292324,"sessionId":"debug-session","runId":"run1","hypothesisId":"A"}
+{"location":"utils/db.ts:8","message":"DATABASE_URL validation check","data":{"dbUrlPresent":true,"dbUrlStartsWithPostgres":true},"timestamp":1767371292329,"sessionId":"debug-session","runId":"run1","hypothesisId":"A"}
+{"location":"utils/db.ts:20","message":"DATABASE_URL validation passed, creating PrismaClient","data":{},"timestamp":1767371292330,"sessionId":"debug-session","runId":"run1","hypothesisId":"B"}
+{"location":"utils/db.ts:24","message":"db.ts module loaded successfully","data":{"prismaCreated":true},"timestamp":1767371292331,"sessionId":"debug-session","runId":"run1","hypothesisId":"B"}
+{"location":"utils/supabase.ts:3","message":"supabase.ts module loading started","data":{"hasSupabaseUrl":true,"hasSupabaseKey":true},"timestamp":1767371292446,"sessionId":"debug-session","runId":"run1","hypothesisId":"A"}
+{"location":"utils/supabase.ts:10","message":"Supabase env vars validation check","data":{"supabaseUrlValid":true,"supabaseKeyPresent":true},"timestamp":1767371292447,"sessionId":"debug-session","runId":"run1","hypothesisId":"A"}
+{"location":"utils/supabase.ts:23","message":"Supabase env vars validation passed, creating client","data":{},"timestamp":1767371292448,"sessionId":"debug-session","runId":"run1","hypothesisId":"B"}
+{"location":"utils/supabase.ts:26","message":"supabase.ts module loaded successfully","data":{"supabaseClientCreated":true},"timestamp":1767371292455,"sessionId":"debug-session","runId":"run1","hypothesisId":"B"}
+{"location":"app/layout.tsx:27","message":"RootLayout rendering started","data":{"hasClerkPublishable":true,"hasClerkSecret":true},"timestamp":1767371292503,"sessionId":"debug-session","runId":"run1","hypothesisId":"E"}
+{"location":"components/navbar/Navbar.tsx:9","message":"Navbar component rendering started","data":{},"timestamp":1767371292639,"sessionId":"debug-session","runId":"run1","hypothesisId":"D"}
+{"location":"app/layout.tsx:27","message":"RootLayout rendering started","data":{"hasClerkPublishable":true,"hasClerkSecret":true},"timestamp":1767371292637,"sessionId":"debug-session","runId":"run1","hypothesisId":"E"}
+{"location":"app/providers.tsx:5","message":"Providers client component rendering","data":{},"timestamp":1767371294778,"sessionId":"debug-session","runId":"run1","hypothesisId":"D"}
+{"location":"app/providers.tsx:5","message":"Providers client component rendering","data":{},"timestamp":1767371294780,"sessionId":"debug-session","runId":"run1","hypothesisId":"D"}
+{"location":"components/navbar/Navbar.tsx:9","message":"Navbar component rendering started","data":{},"timestamp":1767371393602,"sessionId":"debug-session","runId":"run1","hypothesisId":"D"}
+{"location":"app/layout.tsx:27","message":"RootLayout rendering started","data":{"hasClerkPublishable":true,"hasClerkSecret":true},"timestamp":1767371393671,"sessionId":"debug-session","runId":"run1","hypothesisId":"E"}
+{"location":"components/navbar/Navbar.tsx:9","message":"Navbar component rendering started","data":{},"timestamp":1767371393676,"sessionId":"debug-session","runId":"run1","hypothesisId":"D"}
+{"location":"components/navbar/Navbar.tsx:9","message":"Navbar component rendering started","data":{},"timestamp":1767371393719,"sessionId":"debug-session","runId":"run1","hypothesisId":"D"}
+{"location":"app/layout.tsx:27","message":"RootLayout rendering started","data":{"hasClerkPublishable":true,"hasClerkSecret":true},"timestamp":1767371393715,"sessionId":"debug-session","runId":"run1","hypothesisId":"E"}
+{"location":"utils/db.ts:4","message":"db.ts module loading started","data":{"hasDbUrl":true},"timestamp":1767371393351,"sessionId":"debug-session","runId":"run1","hypothesisId":"A"}
+{"location":"utils/db.ts:8","message":"DATABASE_URL validation check","data":{"dbUrlPresent":true,"dbUrlStartsWithPostgres":true},"timestamp":1767371393357,"sessionId":"debug-session","runId":"run1","hypothesisId":"A"}
+{"location":"utils/db.ts:20","message":"DATABASE_URL validation passed, creating PrismaClient","data":{},"timestamp":1767371393357,"sessionId":"debug-session","runId":"run1","hypothesisId":"B"}
+{"location":"utils/db.ts:24","message":"db.ts module loaded successfully","data":{"prismaCreated":true},"timestamp":1767371393362,"sessionId":"debug-session","runId":"run1","hypothesisId":"B"}
+{"location":"utils/supabase.ts:3","message":"supabase.ts module loading started","data":{"hasSupabaseUrl":true,"hasSupabaseKey":true},"timestamp":1767371393452,"sessionId":"debug-session","runId":"run1","hypothesisId":"A"}
+{"location":"utils/supabase.ts:10","message":"Supabase env vars validation check","data":{"supabaseUrlValid":true,"supabaseKeyPresent":true},"timestamp":1767371393454,"sessionId":"debug-session","runId":"run1","hypothesisId":"A"}
+{"location":"utils/supabase.ts:23","message":"Supabase env vars validation passed, creating client","data":{},"timestamp":1767371393455,"sessionId":"debug-session","runId":"run1","hypothesisId":"B"}
+{"location":"utils/supabase.ts:26","message":"supabase.ts module loaded successfully","data":{"supabaseClientCreated":true},"timestamp":1767371393462,"sessionId":"debug-session","runId":"run1","hypothesisId":"B"}
+{"location":"app/layout.tsx:27","message":"RootLayout rendering started","data":{"hasClerkPublishable":true,"hasClerkSecret":true},"timestamp":1767371393590,"sessionId":"debug-session","runId":"run1","hypothesisId":"E"}
+{"location":"app/providers.tsx:5","message":"Providers client component rendering","data":{},"timestamp":1767371394398,"sessionId":"debug-session","runId":"run1","hypothesisId":"D"}
+{"location":"app/providers.tsx:5","message":"Providers client component rendering","data":{},"timestamp":1767371394400,"sessionId":"debug-session","runId":"run1","hypothesisId":"D"}
+{"location":"app/providers.tsx:5","message":"Providers client component rendering","data":{},"timestamp":1767371394434,"sessionId":"debug-session","runId":"run1","hypothesisId":"D"}
+{"location":"app/providers.tsx:5","message":"Providers client component rendering","data":{},"timestamp":1767371394435,"sessionId":"debug-session","runId":"run1","hypothesisId":"D"}
+{"location":"app/providers.tsx:5","message":"Providers client component rendering","data":{},"timestamp":1767371394620,"sessionId":"debug-session","runId":"run1","hypothesisId":"D"}
+{"location":"app/providers.tsx:5","message":"Providers client component rendering","data":{},"timestamp":1767371394620,"sessionId":"debug-session","runId":"run1","hypothesisId":"D"}
+{"location":"app/providers.tsx:5","message":"Providers client component rendering","data":{},"timestamp":1767371396588,"sessionId":"debug-session","runId":"run1","hypothesisId":"D"}
+{"location":"app/providers.tsx:5","message":"Providers client component rendering","data":{},"timestamp":1767371396589,"sessionId":"debug-session","runId":"run1","hypothesisId":"D"}
+{"location":"app/providers.tsx:5","message":"Providers client component rendering","data":{},"timestamp":1767371398736,"sessionId":"debug-session","runId":"run1","hypothesisId":"D"}
+{"location":"app/providers.tsx:5","message":"Providers client component rendering","data":{},"timestamp":1767371398739,"sessionId":"debug-session","runId":"run1","hypothesisId":"D"}
+{"location":"app/providers.tsx:5","message":"Providers client component rendering","data":{},"timestamp":1767371399077,"sessionId":"debug-session","runId":"run1","hypothesisId":"D"}
+{"location":"app/providers.tsx:5","message":"Providers client component rendering","data":{},"timestamp":1767371399079,"sessionId":"debug-session","runId":"run1","hypothesisId":"D"}
+{"location":"app/layout.tsx:27","message":"RootLayout rendering started","data":{"hasClerkPublishable":true,"hasClerkSecret":true},"timestamp":1767371401205,"sessionId":"debug-session","runId":"run1","hypothesisId":"E"}
+{"location":"components/navbar/Navbar.tsx:9","message":"Navbar component rendering started","data":{},"timestamp":1767371401209,"sessionId":"debug-session","runId":"run1","hypothesisId":"D"}
+{"location":"app/providers.tsx:5","message":"Providers client component rendering","data":{},"timestamp":1767371401247,"sessionId":"debug-session","runId":"run1","hypothesisId":"D"}
+{"location":"app/providers.tsx:5","message":"Providers client component rendering","data":{},"timestamp":1767371401248,"sessionId":"debug-session","runId":"run1","hypothesisId":"D"}
+{"location":"app/providers.tsx:5","message":"Providers client component rendering","data":{},"timestamp":1767371401316,"sessionId":"debug-session","runId":"run1","hypothesisId":"D"}
+{"location":"app/providers.tsx:5","message":"Providers client component rendering","data":{},"timestamp":1767371401317,"sessionId":"debug-session","runId":"run1","hypothesisId":"D"}
+{"location":"app/providers.tsx:5","message":"Providers client component rendering","data":{},"timestamp":1767371401790,"sessionId":"debug-session","runId":"run1","hypothesisId":"D"}
+{"location":"app/providers.tsx:5","message":"Providers client component rendering","data":{},"timestamp":1767371401791,"sessionId":"debug-session","runId":"run1","hypothesisId":"D"}
+{"location":"app/providers.tsx:5","message":"Providers client component rendering","data":{},"timestamp":1767371402136,"sessionId":"debug-session","runId":"run1","hypothesisId":"D"}
+{"location":"app/providers.tsx:5","message":"Providers client component rendering","data":{},"timestamp":1767371402137,"sessionId":"debug-session","runId":"run1","hypothesisId":"D"}
+{"location":"app/providers.tsx:5","message":"Providers client component rendering","data":{},"timestamp":1767371402714,"sessionId":"debug-session","runId":"run1","hypothesisId":"D"}
+{"location":"app/providers.tsx:5","message":"Providers client component rendering","data":{},"timestamp":1767371402714,"sessionId":"debug-session","runId":"run1","hypothesisId":"D"}
+{"location":"components/navbar/Navbar.tsx:9","message":"Navbar component rendering started","data":{},"timestamp":1767371403244,"sessionId":"debug-session","runId":"run1","hypothesisId":"D"}
+{"location":"app/layout.tsx:27","message":"RootLayout rendering started","data":{"hasClerkPublishable":true,"hasClerkSecret":true},"timestamp":1767371403242,"sessionId":"debug-session","runId":"run1","hypothesisId":"E"}
+{"location":"app/providers.tsx:5","message":"Providers client component rendering","data":{},"timestamp":1767371403266,"sessionId":"debug-session","runId":"run1","hypothesisId":"D"}
+{"location":"app/providers.tsx:5","message":"Providers client component rendering","data":{},"timestamp":1767371403266,"sessionId":"debug-session","runId":"run1","hypothesisId":"D"}
+{"location":"app/providers.tsx:5","message":"Providers client component rendering","data":{},"timestamp":1767371403823,"sessionId":"debug-session","runId":"run1","hypothesisId":"D"}
+{"location":"app/providers.tsx:5","message":"Providers client component rendering","data":{},"timestamp":1767371403823,"sessionId":"debug-session","runId":"run1","hypothesisId":"D"}
+{"location":"app/providers.tsx:5","message":"Providers client component rendering","data":{},"timestamp":1767371404132,"sessionId":"debug-session","runId":"run1","hypothesisId":"D"}
+{"location":"app/providers.tsx:5","message":"Providers client component rendering","data":{},"timestamp":1767371404133,"sessionId":"debug-session","runId":"run1","hypothesisId":"D"}
+{"location":"app/providers.tsx:5","message":"Providers client component rendering","data":{},"timestamp":1767371404421,"sessionId":"debug-session","runId":"run1","hypothesisId":"D"}
+{"location":"app/providers.tsx:5","message":"Providers client component rendering","data":{},"timestamp":1767371404421,"sessionId":"debug-session","runId":"run1","hypothesisId":"D"}
+{"location":"app/providers.tsx:5","message":"Providers client component rendering","data":{},"timestamp":1767371404703,"sessionId":"debug-session","runId":"run1","hypothesisId":"D"}
+{"location":"app/providers.tsx:5","message":"Providers client component rendering","data":{},"timestamp":1767371404704,"sessionId":"debug-session","runId":"run1","hypothesisId":"D"}
+{"location":"components/navbar/Navbar.tsx:9","message":"Navbar component rendering started","data":{},"timestamp":1767371414163,"sessionId":"debug-session","runId":"run1","hypothesisId":"D"}
+{"location":"app/layout.tsx:27","message":"RootLayout rendering started","data":{"hasClerkPublishable":true,"hasClerkSecret":true},"timestamp":1767371414161,"sessionId":"debug-session","runId":"run1","hypothesisId":"E"}
+{"location":"app/providers.tsx:5","message":"Providers client component rendering","data":{},"timestamp":1767371416241,"sessionId":"debug-session","runId":"run1","hypothesisId":"D"}
+{"location":"app/providers.tsx:5","message":"Providers client component rendering","data":{},"timestamp":1767371416242,"sessionId":"debug-session","runId":"run1","hypothesisId":"D"}
+{"location":"utils/db.ts:4","message":"db.ts module loading started","data":{"hasDbUrl":true},"timestamp":1767371421192,"sessionId":"debug-session","runId":"run1","hypothesisId":"A"}
+{"location":"utils/db.ts:8","message":"DATABASE_URL validation check","data":{"dbUrlPresent":true,"dbUrlStartsWithPostgres":true},"timestamp":1767371421197,"sessionId":"debug-session","runId":"run1","hypothesisId":"A"}
+{"location":"utils/db.ts:20","message":"DATABASE_URL validation passed, creating PrismaClient","data":{},"timestamp":1767371421197,"sessionId":"debug-session","runId":"run1","hypothesisId":"B"}
+{"location":"utils/db.ts:24","message":"db.ts module loaded successfully","data":{"prismaCreated":true},"timestamp":1767371421198,"sessionId":"debug-session","runId":"run1","hypothesisId":"B"}
+{"location":"utils/supabase.ts:3","message":"supabase.ts module loading started","data":{"hasSupabaseUrl":true,"hasSupabaseKey":true},"timestamp":1767371421268,"sessionId":"debug-session","runId":"run1","hypothesisId":"A"}
+{"location":"utils/supabase.ts:10","message":"Supabase env vars validation check","data":{"supabaseUrlValid":true,"supabaseKeyPresent":true},"timestamp":1767371421268,"sessionId":"debug-session","runId":"run1","hypothesisId":"A"}
+{"location":"utils/supabase.ts:23","message":"Supabase env vars validation passed, creating client","data":{},"timestamp":1767371421269,"sessionId":"debug-session","runId":"run1","hypothesisId":"B"}
+{"location":"utils/supabase.ts:26","message":"supabase.ts module loaded successfully","data":{"supabaseClientCreated":true},"timestamp":1767371421273,"sessionId":"debug-session","runId":"run1","hypothesisId":"B"}
+{"location":"app/layout.tsx:27","message":"RootLayout rendering started","data":{"hasClerkPublishable":true,"hasClerkSecret":true},"timestamp":1767371426597,"sessionId":"debug-session","runId":"run1","hypothesisId":"E"}
+{"location":"components/navbar/Navbar.tsx:9","message":"Navbar component rendering started","data":{},"timestamp":1767371426601,"sessionId":"debug-session","runId":"run1","hypothesisId":"D"}
+{"location":"app/providers.tsx:5","message":"Providers client component rendering","data":{},"timestamp":1767371426633,"sessionId":"debug-session","runId":"run1","hypothesisId":"D"}
+{"location":"app/providers.tsx:5","message":"Providers client component rendering","data":{},"timestamp":1767371426633,"sessionId":"debug-session","runId":"run1","hypothesisId":"D"}
+{"location":"app/providers.tsx:5","message":"Providers client component rendering","data":{},"timestamp":1767371426680,"sessionId":"debug-session","runId":"run1","hypothesisId":"D"}
+{"location":"app/providers.tsx:5","message":"Providers client component rendering","data":{},"timestamp":1767371426681,"sessionId":"debug-session","runId":"run1","hypothesisId":"D"}
+{"location":"app/providers.tsx:5","message":"Providers client component rendering","data":{},"timestamp":1767371426904,"sessionId":"debug-session","runId":"run1","hypothesisId":"D"}
+{"location":"app/providers.tsx:5","message":"Providers client component rendering","data":{},"timestamp":1767371426905,"sessionId":"debug-session","runId":"run1","hypothesisId":"D"}
+{"location":"app/providers.tsx:5","message":"Providers client component rendering","data":{},"timestamp":1767371427194,"sessionId":"debug-session","runId":"run1","hypothesisId":"D"}
+{"location":"app/providers.tsx:5","message":"Providers client component rendering","data":{},"timestamp":1767371427194,"sessionId":"debug-session","runId":"run1","hypothesisId":"D"}
+{"location":"components/navbar/Navbar.tsx:9","message":"Navbar component rendering started","data":{},"timestamp":1767371427978,"sessionId":"debug-session","runId":"run1","hypothesisId":"D"}
+{"location":"app/layout.tsx:27","message":"RootLayout rendering started","data":{"hasClerkPublishable":true,"hasClerkSecret":true},"timestamp":1767371427976,"sessionId":"debug-session","runId":"run1","hypothesisId":"E"}
+{"location":"app/providers.tsx:5","message":"Providers client component rendering","data":{},"timestamp":1767371428013,"sessionId":"debug-session","runId":"run1","hypothesisId":"D"}
+{"location":"app/providers.tsx:5","message":"Providers client component rendering","data":{},"timestamp":1767371428014,"sessionId":"debug-session","runId":"run1","hypothesisId":"D"}
+{"location":"app/providers.tsx:5","message":"Providers client component rendering","data":{},"timestamp":1767371428142,"sessionId":"debug-session","runId":"run1","hypothesisId":"D"}
+{"location":"app/providers.tsx:5","message":"Providers client component rendering","data":{},"timestamp":1767371428142,"sessionId":"debug-session","runId":"run1","hypothesisId":"D"}
+{"location":"app/providers.tsx:5","message":"Providers client component rendering","data":{},"timestamp":1767371428195,"sessionId":"debug-session","runId":"run1","hypothesisId":"D"}
+{"location":"app/providers.tsx:5","message":"Providers client component rendering","data":{},"timestamp":1767371428195,"sessionId":"debug-session","runId":"run1","hypothesisId":"D"}
+{"location":"app/providers.tsx:5","message":"Providers client component rendering","data":{},"timestamp":1767371428213,"sessionId":"debug-session","runId":"run1","hypothesisId":"D"}
+{"location":"app/providers.tsx:5","message":"Providers client component rendering","data":{},"timestamp":1767371428213,"sessionId":"debug-session","runId":"run1","hypothesisId":"D"}
+{"location":"app/providers.tsx:5","message":"Providers client component rendering","data":{},"timestamp":1767371428552,"sessionId":"debug-session","runId":"run1","hypothesisId":"D"}
+{"location":"app/providers.tsx:5","message":"Providers client component rendering","data":{},"timestamp":1767371428552,"sessionId":"debug-session","runId":"run1","hypothesisId":"D"}
+{"location":"app/providers.tsx:5","message":"Providers client component rendering","data":{},"timestamp":1767371428600,"sessionId":"debug-session","runId":"run1","hypothesisId":"D"}
+{"location":"app/providers.tsx:5","message":"Providers client component rendering","data":{},"timestamp":1767371428601,"sessionId":"debug-session","runId":"run1","hypothesisId":"D"}
+{"location":"app/providers.tsx:5","message":"Providers client component rendering","data":{},"timestamp":1767371428687,"sessionId":"debug-session","runId":"run1","hypothesisId":"D"}
+{"location":"app/providers.tsx:5","message":"Providers client component rendering","data":{},"timestamp":1767371428688,"sessionId":"debug-session","runId":"run1","hypothesisId":"D"}
+{"location":"app/providers.tsx:5","message":"Providers client component rendering","data":{},"timestamp":1767371428712,"sessionId":"debug-session","runId":"run1","hypothesisId":"D"}
+{"location":"app/providers.tsx:5","message":"Providers client component rendering","data":{},"timestamp":1767371428713,"sessionId":"debug-session","runId":"run1","hypothesisId":"D"}
+{"location":"components/navbar/Navbar.tsx:9","message":"Navbar component rendering started","data":{},"timestamp":1767371550778,"sessionId":"debug-session","runId":"run1","hypothesisId":"D"}
+{"location":"utils/db.ts:4","message":"db.ts module loading started","data":{"hasDbUrl":true},"timestamp":1767371550562,"sessionId":"debug-session","runId":"run1","hypothesisId":"A"}
+{"location":"utils/db.ts:8","message":"DATABASE_URL validation check","data":{"dbUrlPresent":true,"dbUrlStartsWithPostgres":true},"timestamp":1767371550566,"sessionId":"debug-session","runId":"run1","hypothesisId":"A"}
+{"location":"utils/db.ts:20","message":"DATABASE_URL validation passed, creating PrismaClient","data":{},"timestamp":1767371550566,"sessionId":"debug-session","runId":"run1","hypothesisId":"B"}
+{"location":"utils/db.ts:24","message":"db.ts module loaded successfully","data":{"prismaCreated":true},"timestamp":1767371550570,"sessionId":"debug-session","runId":"run1","hypothesisId":"B"}
+{"location":"utils/supabase.ts:3","message":"supabase.ts module loading started","data":{"hasSupabaseUrl":true,"hasSupabaseKey":true},"timestamp":1767371550667,"sessionId":"debug-session","runId":"run1","hypothesisId":"A"}
+{"location":"utils/supabase.ts:10","message":"Supabase env vars validation check","data":{"supabaseUrlValid":true,"supabaseKeyPresent":true},"timestamp":1767371550668,"sessionId":"debug-session","runId":"run1","hypothesisId":"A"}
+{"location":"utils/supabase.ts:23","message":"Supabase env vars validation passed, creating client","data":{},"timestamp":1767371550669,"sessionId":"debug-session","runId":"run1","hypothesisId":"B"}
+{"location":"utils/supabase.ts:26","message":"supabase.ts module loaded successfully","data":{"supabaseClientCreated":true},"timestamp":1767371550677,"sessionId":"debug-session","runId":"run1","hypothesisId":"B"}
+{"location":"app/layout.tsx:27","message":"RootLayout rendering started","data":{"hasClerkPublishable":true,"hasClerkSecret":true},"timestamp":1767371550764,"sessionId":"debug-session","runId":"run1","hypothesisId":"E"}
+{"location":"app/providers.tsx:5","message":"Providers client component rendering","data":{},"timestamp":1767371555272,"sessionId":"debug-session","runId":"run1","hypothesisId":"D"}
+{"location":"app/providers.tsx:5","message":"Providers client component rendering","data":{},"timestamp":1767371555274,"sessionId":"debug-session","runId":"run1","hypothesisId":"D"}
+{"location":"components/navbar/Navbar.tsx:9","message":"Navbar component rendering started","data":{},"timestamp":1767371562525,"sessionId":"debug-session","runId":"run1","hypothesisId":"D"}
+{"location":"app/layout.tsx:27","message":"RootLayout rendering started","data":{"hasClerkPublishable":true,"hasClerkSecret":true},"timestamp":1767371562520,"sessionId":"debug-session","runId":"run1","hypothesisId":"E"}
+{"location":"app/providers.tsx:5","message":"Providers client component rendering","data":{},"timestamp":1767371564485,"sessionId":"debug-session","runId":"run1","hypothesisId":"D"}
+{"location":"app/providers.tsx:5","message":"Providers client component rendering","data":{},"timestamp":1767371564487,"sessionId":"debug-session","runId":"run1","hypothesisId":"D"}
+{"location":"utils/db.ts:4","message":"db.ts module loading started","data":{"hasDbUrl":true},"timestamp":1767371573344,"sessionId":"debug-session","runId":"run1","hypothesisId":"A"}
+{"location":"utils/db.ts:8","message":"DATABASE_URL validation check","data":{"dbUrlPresent":true,"dbUrlStartsWithPostgres":true},"timestamp":1767371573349,"sessionId":"debug-session","runId":"run1","hypothesisId":"A"}
+{"location":"utils/db.ts:20","message":"DATABASE_URL validation passed, creating PrismaClient","data":{},"timestamp":1767371573349,"sessionId":"debug-session","runId":"run1","hypothesisId":"B"}
+{"location":"utils/db.ts:24","message":"db.ts module loaded successfully","data":{"prismaCreated":true},"timestamp":1767371573350,"sessionId":"debug-session","runId":"run1","hypothesisId":"B"}
+{"location":"utils/supabase.ts:3","message":"supabase.ts module loading started","data":{"hasSupabaseUrl":true,"hasSupabaseKey":true},"timestamp":1767371573418,"sessionId":"debug-session","runId":"run1","hypothesisId":"A"}
+{"location":"utils/supabase.ts:10","message":"Supabase env vars validation check","data":{"supabaseUrlValid":true,"supabaseKeyPresent":true},"timestamp":1767371573419,"sessionId":"debug-session","runId":"run1","hypothesisId":"A"}
+{"location":"utils/supabase.ts:23","message":"Supabase env vars validation passed, creating client","data":{},"timestamp":1767371573419,"sessionId":"debug-session","runId":"run1","hypothesisId":"B"}
+{"location":"utils/supabase.ts:26","message":"supabase.ts module loaded successfully","data":{"supabaseClientCreated":true},"timestamp":1767371573425,"sessionId":"debug-session","runId":"run1","hypothesisId":"B"}
+{"location":"components/navbar/Navbar.tsx:9","message":"Navbar component rendering started","data":{},"timestamp":1767371573469,"sessionId":"debug-session","runId":"run1","hypothesisId":"D"}
+{"location":"app/layout.tsx:27","message":"RootLayout rendering started","data":{"hasClerkPublishable":true,"hasClerkSecret":true},"timestamp":1767371573460,"sessionId":"debug-session","runId":"run1","hypothesisId":"E"}
+{"location":"components/navbar/Navbar.tsx:9","message":"Navbar component rendering started","data":{},"timestamp":1767371853600,"sessionId":"debug-session","runId":"run1","hypothesisId":"D"}
+{"location":"utils/db.ts:4","message":"db.ts module loading started","data":{"hasDbUrl":true},"timestamp":1767371853400,"sessionId":"debug-session","runId":"run1","hypothesisId":"A"}
+{"location":"utils/db.ts:8","message":"DATABASE_URL validation check","data":{"dbUrlPresent":true,"dbUrlStartsWithPostgres":true},"timestamp":1767371853405,"sessionId":"debug-session","runId":"run1","hypothesisId":"A"}
+{"location":"utils/db.ts:20","message":"DATABASE_URL validation passed, creating PrismaClient","data":{},"timestamp":1767371853406,"sessionId":"debug-session","runId":"run1","hypothesisId":"B"}
+{"location":"utils/db.ts:24","message":"db.ts module loaded successfully","data":{"prismaCreated":true},"timestamp":1767371853412,"sessionId":"debug-session","runId":"run1","hypothesisId":"B"}
+{"location":"utils/supabase.ts:3","message":"supabase.ts module loading started","data":{"hasSupabaseUrl":true,"hasSupabaseKey":true},"timestamp":1767371853514,"sessionId":"debug-session","runId":"run1","hypothesisId":"A"}
+{"location":"utils/supabase.ts:10","message":"Supabase env vars validation check","data":{"supabaseUrlValid":true,"supabaseKeyPresent":true},"timestamp":1767371853515,"sessionId":"debug-session","runId":"run1","hypothesisId":"A"}
+{"location":"utils/supabase.ts:23","message":"Supabase env vars validation passed, creating client","data":{},"timestamp":1767371853516,"sessionId":"debug-session","runId":"run1","hypothesisId":"B"}
+{"location":"utils/supabase.ts:26","message":"supabase.ts module loaded successfully","data":{"supabaseClientCreated":true},"timestamp":1767371853523,"sessionId":"debug-session","runId":"run1","hypothesisId":"B"}
+{"location":"app/layout.tsx:27","message":"RootLayout rendering started","data":{"hasClerkPublishable":true,"hasClerkSecret":true},"timestamp":1767371853583,"sessionId":"debug-session","runId":"run1","hypothesisId":"E"}
+{"location":"components/navbar/Navbar.tsx:9","message":"Navbar component rendering started","data":{},"timestamp":1767371862644,"sessionId":"debug-session","runId":"run1","hypothesisId":"D"}
+{"location":"app/layout.tsx:27","message":"RootLayout rendering started","data":{"hasClerkPublishable":true,"hasClerkSecret":true},"timestamp":1767371862640,"sessionId":"debug-session","runId":"run1","hypothesisId":"E"}
+{"location":"app/providers.tsx:5","message":"Providers client component rendering","data":{},"timestamp":1767371864168,"sessionId":"debug-session","runId":"run1","hypothesisId":"D"}
+{"location":"app/providers.tsx:5","message":"Providers client component rendering","data":{},"timestamp":1767371864169,"sessionId":"debug-session","runId":"run1","hypothesisId":"D"}
+{"location":"utils/db.ts:4","message":"db.ts module loading started","data":{"hasDbUrl":true},"timestamp":1767371871219,"sessionId":"debug-session","runId":"run1","hypothesisId":"A"}
+{"location":"utils/db.ts:8","message":"DATABASE_URL validation check","data":{"dbUrlPresent":true,"dbUrlStartsWithPostgres":true},"timestamp":1767371871222,"sessionId":"debug-session","runId":"run1","hypothesisId":"A"}
+{"location":"utils/db.ts:20","message":"DATABASE_URL validation passed, creating PrismaClient","data":{},"timestamp":1767371871222,"sessionId":"debug-session","runId":"run1","hypothesisId":"B"}
+{"location":"utils/db.ts:24","message":"db.ts module loaded successfully","data":{"prismaCreated":true},"timestamp":1767371871223,"sessionId":"debug-session","runId":"run1","hypothesisId":"B"}
+{"location":"utils/supabase.ts:3","message":"supabase.ts module loading started","data":{"hasSupabaseUrl":true,"hasSupabaseKey":true},"timestamp":1767371871301,"sessionId":"debug-session","runId":"run1","hypothesisId":"A"}
+{"location":"utils/supabase.ts:10","message":"Supabase env vars validation check","data":{"supabaseUrlValid":true,"supabaseKeyPresent":true},"timestamp":1767371871302,"sessionId":"debug-session","runId":"run1","hypothesisId":"A"}
+{"location":"utils/supabase.ts:23","message":"Supabase env vars validation passed, creating client","data":{},"timestamp":1767371871302,"sessionId":"debug-session","runId":"run1","hypothesisId":"B"}
+{"location":"utils/supabase.ts:26","message":"supabase.ts module loaded successfully","data":{"supabaseClientCreated":true},"timestamp":1767371871308,"sessionId":"debug-session","runId":"run1","hypothesisId":"B"}
+{"location":"app/layout.tsx:27","message":"RootLayout rendering started","data":{"hasClerkPublishable":true,"hasClerkSecret":true},"timestamp":1767372159762,"sessionId":"debug-session","runId":"run1","hypothesisId":"E"}
+{"location":"components/navbar/Navbar.tsx:9","message":"Navbar component rendering started","data":{},"timestamp":1767372159771,"sessionId":"debug-session","runId":"run1","hypothesisId":"D"}
+{"location":"utils/db.ts:4","message":"db.ts module loading started","data":{"hasDbUrl":true},"timestamp":1767372159559,"sessionId":"debug-session","runId":"run1","hypothesisId":"A"}
+{"location":"utils/db.ts:8","message":"DATABASE_URL validation check","data":{"dbUrlPresent":true,"dbUrlStartsWithPostgres":true},"timestamp":1767372159566,"sessionId":"debug-session","runId":"run1","hypothesisId":"A"}
+{"location":"utils/db.ts:20","message":"DATABASE_URL validation passed, creating PrismaClient","data":{},"timestamp":1767372159567,"sessionId":"debug-session","runId":"run1","hypothesisId":"B"}
+{"location":"utils/db.ts:24","message":"db.ts module loaded successfully","data":{"prismaCreated":true},"timestamp":1767372159573,"sessionId":"debug-session","runId":"run1","hypothesisId":"B"}
+{"location":"utils/supabase.ts:3","message":"supabase.ts module loading started","data":{"hasSupabaseUrl":true,"hasSupabaseKey":true},"timestamp":1767372159672,"sessionId":"debug-session","runId":"run1","hypothesisId":"A"}
+{"location":"utils/supabase.ts:10","message":"Supabase env vars validation check","data":{"supabaseUrlValid":true,"supabaseKeyPresent":true},"timestamp":1767372159673,"sessionId":"debug-session","runId":"run1","hypothesisId":"A"}
+{"location":"utils/supabase.ts:23","message":"Supabase env vars validation passed, creating client","data":{},"timestamp":1767372159673,"sessionId":"debug-session","runId":"run1","hypothesisId":"B"}
+{"location":"utils/supabase.ts:26","message":"supabase.ts module loaded successfully","data":{"supabaseClientCreated":true},"timestamp":1767372159679,"sessionId":"debug-session","runId":"run1","hypothesisId":"B"}
+{"location":"app/providers.tsx:5","message":"Providers client component rendering","data":{},"timestamp":1767372163577,"sessionId":"debug-session","runId":"run1","hypothesisId":"D"}
+{"location":"app/providers.tsx:5","message":"Providers client component rendering","data":{},"timestamp":1767372163579,"sessionId":"debug-session","runId":"run1","hypothesisId":"D"}
+{"location":"utils/db.ts:4","message":"db.ts module loading started","data":{"hasDbUrl":true},"timestamp":1767372170911,"sessionId":"debug-session","runId":"run1","hypothesisId":"A"}
+{"location":"utils/db.ts:8","message":"DATABASE_URL validation check","data":{"dbUrlPresent":true,"dbUrlStartsWithPostgres":true},"timestamp":1767372170918,"sessionId":"debug-session","runId":"run1","hypothesisId":"A"}
+{"location":"utils/db.ts:20","message":"DATABASE_URL validation passed, creating PrismaClient","data":{},"timestamp":1767372170918,"sessionId":"debug-session","runId":"run1","hypothesisId":"B"}
+{"location":"utils/db.ts:24","message":"db.ts module loaded successfully","data":{"prismaCreated":true},"timestamp":1767372170919,"sessionId":"debug-session","runId":"run1","hypothesisId":"B"}
+{"location":"utils/supabase.ts:3","message":"supabase.ts module loading started","data":{"hasSupabaseUrl":true,"hasSupabaseKey":true},"timestamp":1767372171038,"sessionId":"debug-session","runId":"run1","hypothesisId":"A"}
+{"location":"utils/supabase.ts:10","message":"Supabase env vars validation check","data":{"supabaseUrlValid":true,"supabaseKeyPresent":true},"timestamp":1767372171039,"sessionId":"debug-session","runId":"run1","hypothesisId":"A"}
+{"location":"utils/supabase.ts:23","message":"Supabase env vars validation passed, creating client","data":{},"timestamp":1767372171039,"sessionId":"debug-session","runId":"run1","hypothesisId":"B"}
+{"location":"utils/supabase.ts:26","message":"supabase.ts module loaded successfully","data":{"supabaseClientCreated":true},"timestamp":1767372171048,"sessionId":"debug-session","runId":"run1","hypothesisId":"B"}
+{"location":"utils/db.ts:4","message":"db.ts module loading started","data":{"hasDbUrl":true},"timestamp":1767372183722,"sessionId":"debug-session","runId":"run1","hypothesisId":"A"}
+{"location":"utils/db.ts:8","message":"DATABASE_URL validation check","data":{"dbUrlPresent":true,"dbUrlStartsWithPostgres":true},"timestamp":1767372183725,"sessionId":"debug-session","runId":"run1","hypothesisId":"A"}
+{"location":"utils/db.ts:20","message":"DATABASE_URL validation passed, creating PrismaClient","data":{},"timestamp":1767372183726,"sessionId":"debug-session","runId":"run1","hypothesisId":"B"}
+{"location":"utils/db.ts:24","message":"db.ts module loaded successfully","data":{"prismaCreated":true},"timestamp":1767372183726,"sessionId":"debug-session","runId":"run1","hypothesisId":"B"}
+{"location":"utils/supabase.ts:3","message":"supabase.ts module loading started","data":{"hasSupabaseUrl":true,"hasSupabaseKey":true},"timestamp":1767372183756,"sessionId":"debug-session","runId":"run1","hypothesisId":"A"}
+{"location":"utils/supabase.ts:10","message":"Supabase env vars validation check","data":{"supabaseUrlValid":true,"supabaseKeyPresent":true},"timestamp":1767372183756,"sessionId":"debug-session","runId":"run1","hypothesisId":"A"}
+{"location":"utils/supabase.ts:23","message":"Supabase env vars validation passed, creating client","data":{},"timestamp":1767372183757,"sessionId":"debug-session","runId":"run1","hypothesisId":"B"}
+{"location":"utils/supabase.ts:26","message":"supabase.ts module loaded successfully","data":{"supabaseClientCreated":true},"timestamp":1767372183758,"sessionId":"debug-session","runId":"run1","hypothesisId":"B"}
+{"location":"app/layout.tsx:27","message":"RootLayout rendering started","data":{"hasClerkPublishable":true,"hasClerkSecret":true},"timestamp":1767372187263,"sessionId":"debug-session","runId":"run1","hypothesisId":"E"}
+{"location":"components/navbar/Navbar.tsx:9","message":"Navbar component rendering started","data":{},"timestamp":1767372187272,"sessionId":"debug-session","runId":"run1","hypothesisId":"D"}
+{"location":"app/providers.tsx:5","message":"Providers client component rendering","data":{},"timestamp":1767372187385,"sessionId":"debug-session","runId":"run1","hypothesisId":"D"}
+{"location":"app/providers.tsx:5","message":"Providers client component rendering","data":{},"timestamp":1767372187387,"sessionId":"debug-session","runId":"run1","hypothesisId":"D"}
+{"location":"app/providers.tsx:5","message":"Providers client component rendering","data":{},"timestamp":1767372187444,"sessionId":"debug-session","runId":"run1","hypothesisId":"D"}
+{"location":"app/providers.tsx:5","message":"Providers client component rendering","data":{},"timestamp":1767372187445,"sessionId":"debug-session","runId":"run1","hypothesisId":"D"}
+{"location":"app/providers.tsx:5","message":"Providers client component rendering","data":{},"timestamp":1767372187604,"sessionId":"debug-session","runId":"run1","hypothesisId":"D"}
+{"location":"app/providers.tsx:5","message":"Providers client component rendering","data":{},"timestamp":1767372187605,"sessionId":"debug-session","runId":"run1","hypothesisId":"D"}
+{"location":"app/providers.tsx:5","message":"Providers client component rendering","data":{},"timestamp":1767372187647,"sessionId":"debug-session","runId":"run1","hypothesisId":"D"}
+{"location":"app/providers.tsx:5","message":"Providers client component rendering","data":{},"timestamp":1767372187647,"sessionId":"debug-session","runId":"run1","hypothesisId":"D"}
+{"location":"app/providers.tsx:5","message":"Providers client component rendering","data":{},"timestamp":1767372187877,"sessionId":"debug-session","runId":"run1","hypothesisId":"D"}
+{"location":"app/providers.tsx:5","message":"Providers client component rendering","data":{},"timestamp":1767372187879,"sessionId":"debug-session","runId":"run1","hypothesisId":"D"}
+{"location":"app/providers.tsx:5","message":"Providers client component rendering","data":{},"timestamp":1767372188029,"sessionId":"debug-session","runId":"run1","hypothesisId":"D"}
+{"location":"app/providers.tsx:5","message":"Providers client component rendering","data":{},"timestamp":1767372188030,"sessionId":"debug-session","runId":"run1","hypothesisId":"D"}
+{"location":"app/providers.tsx:5","message":"Providers client component rendering","data":{},"timestamp":1767372188150,"sessionId":"debug-session","runId":"run1","hypothesisId":"D"}
+{"location":"app/providers.tsx:5","message":"Providers client component rendering","data":{},"timestamp":1767372188150,"sessionId":"debug-session","runId":"run1","hypothesisId":"D"}
+{"location":"app/providers.tsx:5","message":"Providers client component rendering","data":{},"timestamp":1767372188434,"sessionId":"debug-session","runId":"run1","hypothesisId":"D"}
+{"location":"app/providers.tsx:5","message":"Providers client component rendering","data":{},"timestamp":1767372188435,"sessionId":"debug-session","runId":"run1","hypothesisId":"D"}
+{"location":"app/providers.tsx:5","message":"Providers client component rendering","data":{},"timestamp":1767372188715,"sessionId":"debug-session","runId":"run1","hypothesisId":"D"}
+{"location":"app/providers.tsx:5","message":"Providers client component rendering","data":{},"timestamp":1767372188715,"sessionId":"debug-session","runId":"run1","hypothesisId":"D"}
+{"location":"app/providers.tsx:5","message":"Providers client component rendering","data":{},"timestamp":1767372188997,"sessionId":"debug-session","runId":"run1","hypothesisId":"D"}
+{"location":"app/providers.tsx:5","message":"Providers client component rendering","data":{},"timestamp":1767372188997,"sessionId":"debug-session","runId":"run1","hypothesisId":"D"}
+{"location":"components/navbar/Navbar.tsx:9","message":"Navbar component rendering started","data":{},"timestamp":1767372189751,"sessionId":"debug-session","runId":"run1","hypothesisId":"D"}
+{"location":"app/layout.tsx:27","message":"RootLayout rendering started","data":{"hasClerkPublishable":true,"hasClerkSecret":true},"timestamp":1767372189749,"sessionId":"debug-session","runId":"run1","hypothesisId":"E"}
+{"location":"app/providers.tsx:5","message":"Providers client component rendering","data":{},"timestamp":1767372189774,"sessionId":"debug-session","runId":"run1","hypothesisId":"D"}
+{"location":"app/providers.tsx:5","message":"Providers client component rendering","data":{},"timestamp":1767372189774,"sessionId":"debug-session","runId":"run1","hypothesisId":"D"}
+{"location":"app/providers.tsx:5","message":"Providers client component rendering","data":{},"timestamp":1767372189905,"sessionId":"debug-session","runId":"run1","hypothesisId":"D"}
+{"location":"app/providers.tsx:5","message":"Providers client component rendering","data":{},"timestamp":1767372189906,"sessionId":"debug-session","runId":"run1","hypothesisId":"D"}
+{"location":"app/providers.tsx:5","message":"Providers client component rendering","data":{},"timestamp":1767372189942,"sessionId":"debug-session","runId":"run1","hypothesisId":"D"}
+{"location":"app/providers.tsx:5","message":"Providers client component rendering","data":{},"timestamp":1767372189942,"sessionId":"debug-session","runId":"run1","hypothesisId":"D"}
+{"location":"app/providers.tsx:5","message":"Providers client component rendering","data":{},"timestamp":1767372189956,"sessionId":"debug-session","runId":"run1","hypothesisId":"D"}
+{"location":"app/providers.tsx:5","message":"Providers client component rendering","data":{},"timestamp":1767372189956,"sessionId":"debug-session","runId":"run1","hypothesisId":"D"}
+{"location":"app/providers.tsx:5","message":"Providers client component rendering","data":{},"timestamp":1767372190179,"sessionId":"debug-session","runId":"run1","hypothesisId":"D"}
+{"location":"app/providers.tsx:5","message":"Providers client component rendering","data":{},"timestamp":1767372190180,"sessionId":"debug-session","runId":"run1","hypothesisId":"D"}
+{"location":"app/providers.tsx:5","message":"Providers client component rendering","data":{},"timestamp":1767372190468,"sessionId":"debug-session","runId":"run1","hypothesisId":"D"}
+{"location":"app/providers.tsx:5","message":"Providers client component rendering","data":{},"timestamp":1767372190468,"sessionId":"debug-session","runId":"run1","hypothesisId":"D"}
+{"location":"components/navbar/Navbar.tsx:9","message":"Navbar component rendering started","data":{},"timestamp":1767372197669,"sessionId":"debug-session","runId":"run1","hypothesisId":"D"}
+{"location":"app/layout.tsx:27","message":"RootLayout rendering started","data":{"hasClerkPublishable":true,"hasClerkSecret":true},"timestamp":1767372197667,"sessionId":"debug-session","runId":"run1","hypothesisId":"E"}
+{"location":"app/providers.tsx:5","message":"Providers client component rendering","data":{},"timestamp":1767372200155,"sessionId":"debug-session","runId":"run1","hypothesisId":"D"}
+{"location":"app/providers.tsx:5","message":"Providers client component rendering","data":{},"timestamp":1767372200156,"sessionId":"debug-session","runId":"run1","hypothesisId":"D"}
+{"location":"components/navbar/Navbar.tsx:9","message":"Navbar component rendering started","data":{},"timestamp":1767372284562,"sessionId":"debug-session","runId":"run1","hypothesisId":"D"}
+{"location":"utils/db.ts:4","message":"db.ts module loading started","data":{"hasDbUrl":true},"timestamp":1767372284314,"sessionId":"debug-session","runId":"run1","hypothesisId":"A"}
+{"location":"utils/db.ts:8","message":"DATABASE_URL validation check","data":{"dbUrlPresent":true,"dbUrlStartsWithPostgres":true},"timestamp":1767372284319,"sessionId":"debug-session","runId":"run1","hypothesisId":"A"}
+{"location":"utils/db.ts:20","message":"DATABASE_URL validation passed, creating PrismaClient","data":{},"timestamp":1767372284319,"sessionId":"debug-session","runId":"run1","hypothesisId":"B"}
+{"location":"utils/db.ts:24","message":"db.ts module loaded successfully","data":{"prismaCreated":true},"timestamp":1767372284324,"sessionId":"debug-session","runId":"run1","hypothesisId":"B"}
+{"location":"utils/supabase.ts:3","message":"supabase.ts module loading started","data":{"hasSupabaseUrl":true,"hasSupabaseKey":true},"timestamp":1767372284447,"sessionId":"debug-session","runId":"run1","hypothesisId":"A"}
+{"location":"utils/supabase.ts:10","message":"Supabase env vars validation check","data":{"supabaseUrlValid":true,"supabaseKeyPresent":true},"timestamp":1767372284448,"sessionId":"debug-session","runId":"run1","hypothesisId":"A"}
+{"location":"utils/supabase.ts:23","message":"Supabase env vars validation passed, creating client","data":{},"timestamp":1767372284448,"sessionId":"debug-session","runId":"run1","hypothesisId":"B"}
+{"location":"utils/supabase.ts:26","message":"supabase.ts module loaded successfully","data":{"supabaseClientCreated":true},"timestamp":1767372284457,"sessionId":"debug-session","runId":"run1","hypothesisId":"B"}
+{"location":"app/layout.tsx:27","message":"RootLayout rendering started","data":{"hasClerkPublishable":true,"hasClerkSecret":true},"timestamp":1767372284551,"sessionId":"debug-session","runId":"run1","hypothesisId":"E"}
+{"location":"app/providers.tsx:5","message":"Providers client component rendering","data":{},"timestamp":1767372289509,"sessionId":"debug-session","runId":"run1","hypothesisId":"D"}
+{"location":"app/providers.tsx:5","message":"Providers client component rendering","data":{},"timestamp":1767372289511,"sessionId":"debug-session","runId":"run1","hypothesisId":"D"}
+{"location":"utils/db.ts:4","message":"db.ts module loading started","data":{"hasDbUrl":true},"timestamp":1767372298383,"sessionId":"debug-session","runId":"run1","hypothesisId":"A"}
+{"location":"utils/db.ts:8","message":"DATABASE_URL validation check","data":{"dbUrlPresent":true,"dbUrlStartsWithPostgres":true},"timestamp":1767372298389,"sessionId":"debug-session","runId":"run1","hypothesisId":"A"}
+{"location":"utils/db.ts:20","message":"DATABASE_URL validation passed, creating PrismaClient","data":{},"timestamp":1767372298390,"sessionId":"debug-session","runId":"run1","hypothesisId":"B"}
+{"location":"utils/db.ts:24","message":"db.ts module loaded successfully","data":{"prismaCreated":true},"timestamp":1767372298391,"sessionId":"debug-session","runId":"run1","hypothesisId":"B"}
+{"location":"utils/supabase.ts:3","message":"supabase.ts module loading started","data":{"hasSupabaseUrl":true,"hasSupabaseKey":true},"timestamp":1767372298477,"sessionId":"debug-session","runId":"run1","hypothesisId":"A"}
+{"location":"utils/supabase.ts:10","message":"Supabase env vars validation check","data":{"supabaseUrlValid":true,"supabaseKeyPresent":true},"timestamp":1767372298478,"sessionId":"debug-session","runId":"run1","hypothesisId":"A"}
+{"location":"utils/supabase.ts:23","message":"Supabase env vars validation passed, creating client","data":{},"timestamp":1767372298479,"sessionId":"debug-session","runId":"run1","hypothesisId":"B"}
+{"location":"utils/supabase.ts:26","message":"supabase.ts module loaded successfully","data":{"supabaseClientCreated":true},"timestamp":1767372298486,"sessionId":"debug-session","runId":"run1","hypothesisId":"B"}
+{"location":"utils/db.ts:4","message":"db.ts module loading started","data":{"hasDbUrl":true},"timestamp":1767372304975,"sessionId":"debug-session","runId":"run1","hypothesisId":"A"}
+{"location":"utils/db.ts:8","message":"DATABASE_URL validation check","data":{"dbUrlPresent":true,"dbUrlStartsWithPostgres":true},"timestamp":1767372304975,"sessionId":"debug-session","runId":"run1","hypothesisId":"A"}
+{"location":"utils/db.ts:20","message":"DATABASE_URL validation passed, creating PrismaClient","data":{},"timestamp":1767372304976,"sessionId":"debug-session","runId":"run1","hypothesisId":"B"}
+{"location":"utils/db.ts:24","message":"db.ts module loaded successfully","data":{"prismaCreated":true},"timestamp":1767372304976,"sessionId":"debug-session","runId":"run1","hypothesisId":"B"}
+{"location":"utils/supabase.ts:3","message":"supabase.ts module loading started","data":{"hasSupabaseUrl":true,"hasSupabaseKey":true},"timestamp":1767372304990,"sessionId":"debug-session","runId":"run1","hypothesisId":"A"}
+{"location":"utils/supabase.ts:10","message":"Supabase env vars validation check","data":{"supabaseUrlValid":true,"supabaseKeyPresent":true},"timestamp":1767372304991,"sessionId":"debug-session","runId":"run1","hypothesisId":"A"}
+{"location":"utils/supabase.ts:23","message":"Supabase env vars validation passed, creating client","data":{},"timestamp":1767372304991,"sessionId":"debug-session","runId":"run1","hypothesisId":"B"}
+{"location":"utils/supabase.ts:26","message":"supabase.ts module loaded successfully","data":{"supabaseClientCreated":true},"timestamp":1767372304992,"sessionId":"debug-session","runId":"run1","hypothesisId":"B"}
+{"location":"utils/db.ts:4","message":"db.ts module loading started","data":{"hasDbUrl":true},"timestamp":1767372308765,"sessionId":"debug-session","runId":"run1","hypothesisId":"A"}
+{"location":"utils/db.ts:8","message":"DATABASE_URL validation check","data":{"dbUrlPresent":true,"dbUrlStartsWithPostgres":true},"timestamp":1767372308766,"sessionId":"debug-session","runId":"run1","hypothesisId":"A"}
+{"location":"utils/db.ts:20","message":"DATABASE_URL validation passed, creating PrismaClient","data":{},"timestamp":1767372308767,"sessionId":"debug-session","runId":"run1","hypothesisId":"B"}
+{"location":"utils/db.ts:24","message":"db.ts module loaded successfully","data":{"prismaCreated":true},"timestamp":1767372308767,"sessionId":"debug-session","runId":"run1","hypothesisId":"B"}
+{"location":"utils/supabase.ts:3","message":"supabase.ts module loading started","data":{"hasSupabaseUrl":true,"hasSupabaseKey":true},"timestamp":1767372308784,"sessionId":"debug-session","runId":"run1","hypothesisId":"A"}
+{"location":"utils/supabase.ts:10","message":"Supabase env vars validation check","data":{"supabaseUrlValid":true,"supabaseKeyPresent":true},"timestamp":1767372308784,"sessionId":"debug-session","runId":"run1","hypothesisId":"A"}
+{"location":"utils/supabase.ts:23","message":"Supabase env vars validation passed, creating client","data":{},"timestamp":1767372308785,"sessionId":"debug-session","runId":"run1","hypothesisId":"B"}
+{"location":"utils/supabase.ts:26","message":"supabase.ts module loaded successfully","data":{"supabaseClientCreated":true},"timestamp":1767372308786,"sessionId":"debug-session","runId":"run1","hypothesisId":"B"}
+{"location":"utils/db.ts:4","message":"db.ts module loading started","data":{"hasDbUrl":true},"timestamp":1767372332613,"sessionId":"debug-session","runId":"run1","hypothesisId":"A"}
+{"location":"utils/db.ts:8","message":"DATABASE_URL validation check","data":{"dbUrlPresent":true,"dbUrlStartsWithPostgres":true},"timestamp":1767372332614,"sessionId":"debug-session","runId":"run1","hypothesisId":"A"}
+{"location":"utils/db.ts:20","message":"DATABASE_URL validation passed, creating PrismaClient","data":{},"timestamp":1767372332614,"sessionId":"debug-session","runId":"run1","hypothesisId":"B"}
+{"location":"utils/db.ts:24","message":"db.ts module loaded successfully","data":{"prismaCreated":true},"timestamp":1767372332614,"sessionId":"debug-session","runId":"run1","hypothesisId":"B"}
+{"location":"utils/supabase.ts:3","message":"supabase.ts module loading started","data":{"hasSupabaseUrl":true,"hasSupabaseKey":true},"timestamp":1767372332645,"sessionId":"debug-session","runId":"run1","hypothesisId":"A"}
+{"location":"utils/supabase.ts:10","message":"Supabase env vars validation check","data":{"supabaseUrlValid":true,"supabaseKeyPresent":true},"timestamp":1767372332646,"sessionId":"debug-session","runId":"run1","hypothesisId":"A"}
+{"location":"utils/supabase.ts:23","message":"Supabase env vars validation passed, creating client","data":{},"timestamp":1767372332646,"sessionId":"debug-session","runId":"run1","hypothesisId":"B"}
+{"location":"utils/supabase.ts:26","message":"supabase.ts module loaded successfully","data":{"supabaseClientCreated":true},"timestamp":1767372332649,"sessionId":"debug-session","runId":"run1","hypothesisId":"B"}

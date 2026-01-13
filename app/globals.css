@@ -1,0 +1,60 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    --background: 0 0% 100%;
+    --foreground: 222.2 84% 4.9%;
+    --card: 0 0% 100%;
+    --card-foreground: 222.2 84% 4.9%;
+    --popover: 0 0% 100%;
+    --popover-foreground: 222.2 84% 4.9%;
+    --primary: 26 30% 22%;
+    --primary-foreground: 0 0% 98%;
+    --secondary: 24 10% 96%;
+    --secondary-foreground: 26 30% 22%;
+    --muted: 24 10% 96%;
+    --muted-foreground: 26 10% 45%;
+    --accent: 24 10% 96%;
+    --accent-foreground: 26 30% 22%;
+    --destructive: 0 84.2% 60.2%;
+    --destructive-foreground: 0 0% 98%;
+    --border: 26 15% 90%;
+    --input: 26 15% 90%;
+    --ring: 26 30% 22%;
+    --radius: 0.5rem;
+  }
+
+  .dark {
+    --background: 20 14.3% 4.1%;
+    --foreground: 0 0% 95%;
+    --card: 24 9.8% 10%;
+    --card-foreground: 0 0% 95%;
+    --popover: 0 0% 9%;
+    --popover-foreground: 0 0% 95%;
+    --primary: 26 30% 65%;
+    --primary-foreground: 26 30% 10%;
+    --secondary: 26 20% 20%;
+    --secondary-foreground: 0 0% 98%;
+    --muted: 26 20% 20%;
+    --muted-foreground: 24 10% 65%;
+    --accent: 12 6.5% 15.1%;
+    --accent-foreground: 0 0% 98%;
+    --destructive: 0 62.8% 30.6%;
+    --destructive-foreground: 0 0% 98%;
+    --border: 26 20% 20%;
+    --input: 26 20% 20%;
+    --ring: 26 30% 65%;
+  }
+}
+
+@layer base {
+  * {
+    @apply border-border;
+  }
+
+  body {
+    @apply bg-background text-foreground min-h-screen flex flex-col;
+  }
+}
